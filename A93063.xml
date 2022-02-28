@@ -1,0 +1,1682 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Davids deliverance and thanksgiving. A sermon preached before the King at VVhitehall upon June 28. 1660. being the day of solemn thanksgiving for the happy return of His Majesty. By Gilbert Sheldon, D.D. and Dean of His Majesties Chappell Royall. Published by His Majesties speciall command.</title>
+            <author>Sheldon, Gilbert, 1598-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93063</idno>
+            <idno type="STC">Wing S3068</idno>
+            <idno type="STC">Thomason E1035_1</idno>
+            <idno type="STC">ESTC R203558</idno>
+            <idno type="EEBO-CITATION">99863482</idno>
+            <idno type="PROQUEST">99863482</idno>
+            <idno type="VID">115685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115685)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1035[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Davids deliverance and thanksgiving. A sermon preached before the King at VVhitehall upon June 28. 1660. being the day of solemn thanksgiving for the happy return of His Majesty. By Gilbert Sheldon, D.D. and Dean of His Majesties Chappell Royall. Published by His Majesties speciall command.</title>
+                  <author>Sheldon, Gilbert, 1598-1677.</author>
+               </titleStmt>
+               <extent>[2], 50 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Timothy Garthwait, at the little north door of S. Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page in red and black.</note>
+                  <note>Annotation on Thomason copy: "July 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115685:1" rendition="simple:additions"/>
+            <p>
+               <hi>DAVIDS</hi> Deliverance and Thanksgiving.</p>
+            <p>A
+SERMON
+Preached before the
+KING at VVHITEHALL
+Upon <hi>June</hi> 28. 1660.</p>
+            <p>Being the DAY of
+<hi>SOLEMN THANKSGIVING</hi>
+FOR THE
+Happy RETURN of His MAJESTY.</p>
+            <p>BY
+GILBERT SHELDON, D. D.
+AND
+Dean of His MAJESTIES Chappell Royall.</p>
+            <p>Publiſhed by His Majeſties Speciall Command.</p>
+            <p>
+               <hi>LONDON,</hi>
+Printed for <hi>Timothy Garthwait,</hi> at the Little North
+Door of S. <hi>Pauls.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="epigraph">
+            <pb facs="tcp:115685:2"/>
+            <pb n="1" facs="tcp:115685:2"/>
+            <bibl>PSALM. 18. 49.</bibl>
+            <q>Therefore will I give thanks unto thee
+(O Lord) among the heathen, and
+ſing praiſes unto thy Name.</q>
+            <p>The words before run thus.</p>
+            <p>Verſ.
+<q>46. The Lord liveth, and bleſſed be my rock, and let the God of
+my ſalvation be exalted.</q>
+               <q>47. It is God that avengeth me, and ſubdueth the people under
+me.</q>
+               <q>48. He delivereth me from mine enemies, yea thou lifteſt me up
+above thoſe that riſe up againſt me; thou haſt delivered me
+from the violent man.</q>
+               <q>49. Therefore, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <div type="sermon">
+               <p>
+                  <seg rend="decorInit">W</seg>Hat the Argument of this Pſalm
+is; why, when, and by whom
+written, the Title ſhews, and tels
+us, that 'twas <hi>Davids,</hi> made <hi>in the
+day that the Lord delivered him from
+all his enemies, and from the hand of
+Saul.</hi> 'Tis recorded 2 <hi>Sam.</hi> 22. after the Rebelli<g ref="char:EOLhyphen"/>on
+of <hi>Abſalom</hi> and <hi>Sheba,</hi> and 'tis thought by ſome
+to be one of the laſt, if not the very laſt, that ever
+<pb n="2" facs="tcp:115685:3"/>
+he made. I ſhall not meddle at all with the <hi>my<g ref="char:EOLhyphen"/>ſtical</hi>
+or <hi>Prophetical</hi> ſenſe of it, either as it relates to
+Chriſt or his Church, matters more proper for
+other times; but onely with the <hi>Hiſtorical</hi> or <hi>Lite<g ref="char:EOLhyphen"/>ral,</hi>
+as it concerned <hi>David,</hi> and by his example all
+that ſucceed him in the like Dangers and Delive<g ref="char:EOLhyphen"/>rances;
+even us at preſent, and proper and fit it
+is for us. For 'tis a <hi>Pſalm of Thankſgiving</hi> through<g ref="char:EOLhyphen"/>out,
+and the Verſes read unto you are a ſum of the
+whole, a recapitulation of all that went before,
+where after a <hi>Commemoration</hi> of Gods ſeveral <hi>Delive<g ref="char:EOLhyphen"/>rances,</hi>
+he infers his own Duty, and ſo by conſe<g ref="char:EOLhyphen"/>quence
+ours, in the words of the Text: Becauſe
+thou haſt ſo graciouſly, ſo mercifully delivered me
+from ſo many and great dangers,
+<q>Therefore will I give thanks unto thee (O Lord)
+among the Heathen, and ſing praiſes unto thy
+Name.</q>
+               </p>
+               <p>Wherein be pleaſed to take notice with me of
+theſe three particulars.
+<list>
+                     <item>1. Of David delivered.</item>
+                     <item>2. Of God his Deliverer.</item>
+                     <item>3. Of Davids thankfulneſſe for his deliverance.</item>
+                  </list>
+               </p>
+               <p>Of theſe in order; and firſt, of the perſon de<g ref="char:EOLhyphen"/>livered.</p>
+               <div n="1" type="part">
+                  <p>
+                     <pb n="3" facs="tcp:115685:3"/>
+I. <hi>DAvid,</hi>
+                     <note place="margin">1. David delivered.</note> a <hi>King,</hi> and <hi>Saint,</hi> both which in<g ref="char:EOLhyphen"/>title
+him to an eſpecial intereſt in
+Gods good Providence: <hi>Kings</hi> are his
+<hi>Deputies, Saints</hi> his <hi>Friends;</hi> and <hi>David</hi> no ordinary
+<hi>King</hi> or <hi>Saint,</hi> but eminent in both relations; an
+excellent Perſon,<note place="margin">Act. 13. 22.</note> and gracious <hi>King,</hi> one <hi>after Gods
+own heart,</hi> a Type of <hi>Chriſt;</hi> and no marvel if ſuch be
+delivered by him, if God have an eſpecial care of
+him. The <hi>wonder</hi> is, how ſo good a Man, ſo gra<g ref="char:EOLhyphen"/>cious
+a Prince, ſhould have Enemies and Rebels,
+ſhould fall into ſuch dangers and afflictions,
+ſhould need ſo many deliverances.</p>
+                  <p>But if we conſider it well, it's no wonder nei<g ref="char:EOLhyphen"/>ther;
+never was, never will be: For if we look
+to the eminenteſt perſons in all Ages of the World,
+from the firſt man to this day, we ſhall find
+that the beſt of Men and moſt godly, have
+ever had many afflictions, many enemies, and
+many the more for being ſo. The <hi>Prophet</hi> com<g ref="char:EOLhyphen"/>plains
+'twas his caſe, and that he ſuffered much <hi>be<g ref="char:EOLhyphen"/>cauſe
+he followed the thing that good was,</hi> Pſal. 38. 20.
+And St. <hi>Paul</hi> aſſures us, that <hi>All</hi> (all without ex<g ref="char:EOLhyphen"/>ception)
+<hi>that will live godly in Chriſt Jeſus ſhall ſuf<g ref="char:EOLhyphen"/>fer
+perſecution,</hi> 2 Tim. 3. 12. and if there were no
+other cauſe, even for their <hi>godlineſſe:</hi> their Ver<g ref="char:EOLhyphen"/>tues
+are a reproach to the wicked world, and can<g ref="char:EOLhyphen"/>not
+well be endured.</p>
+                  <p>But reaſon enough for it there is beſides; for
+<pb n="4" facs="tcp:115685:4"/>
+even in the <hi>beſt,</hi> there is ſomething <hi>amiſſe;</hi> no corn
+without chaff, nor gold without ſome droſs: All
+Saints are ſinners, and ſin will be puniſhed in
+Gods children ſooneſt of all, he leaſt endures it
+in them:<note place="margin">Pſa. 17<g ref="char:punc">▪</g> 14.</note> 'Tis the wicked uſually that have <hi>their
+portion in this life,</hi> and that come <hi>in no trouble like
+other men, Pſal.</hi> 73 5. Proſperity in ſin is their
+curſe, a ſad ſign of utter deſtruction, and the ve<g ref="char:EOLhyphen"/>ry
+next ſtep to Hell fire: But they who are de<g ref="char:EOLhyphen"/>ſigned
+for Heaven, muſt paſs thither <hi>through much
+tribulation, Act.</hi> 14. 22. There is ever an <hi>Aegypt</hi> in
+their way to <hi>Canaan.</hi> Only this is their comfort,
+that being under his <hi>Rod,</hi> they are not out of his
+<hi>Care:</hi> Afflictions are their Phyſick; and by
+them,<note place="margin">Prov. 27. 21.</note> 
+                     <hi>like Gold in the Furnace,</hi> they gain luſtre, and
+loſe no weight, are mended here that they may
+be ſaved hereafter. No marvel then if a <hi>Saint</hi> fall
+into trouble, if he need deliverance; eſpecially
+if a <hi>King,</hi> if a <hi>Saint-Royal.</hi>
+                  </p>
+                  <p>For no ſtate or condition of men in the world
+is ſo obnoxious to dangers as theirs: For man by
+nature is proud and querulous, impatient of go<g ref="char:EOLhyphen"/>vernment,
+greedy of liberty, ever reſtleſs and preſ<g ref="char:EOLhyphen"/>ſing
+after new deſires, always diſpleaſed with the
+preſent, and thirſting after change; ſcarce any
+content with their condition. Some are <hi>ambitious</hi>
+and would be greater; others <hi>covetous</hi> and would
+be richer; have ſuffered a repulſe in ſome unrea<g ref="char:EOLhyphen"/>ſonable
+ſuits, have been reſtrained in ſome exorbi<g ref="char:EOLhyphen"/>tant
+<pb n="5" facs="tcp:115685:4"/>
+deſires; injuries not to be forgiven or for<g ref="char:EOLhyphen"/>gotten.
+Some are <hi>neceſſitous,</hi> and ſo greedy; ſome
+<hi>revengeful,</hi> and will be quarrelling; ſome <hi>envious,</hi>
+ſome <hi>turbulent,</hi> and delight in miſchief, and many
+the like. Now all this crowd and throng of in<g ref="char:EOLhyphen"/>ordinate
+paſſions and humors diſchargeth it ſelf
+upon thoſe in <hi>power</hi> and <hi>place,</hi> and hope to find
+eaſe by ſome publick diſturbance, which they
+endeavour by all arts and wayes imaginable, that
+ſo in troubled waters they may catch that which
+quieter times would have derived upon perſons of
+better merit.</p>
+                  <p>And the condition of <hi>Kings</hi> gives ſome advan<g ref="char:EOLhyphen"/>tage
+to ſuch deſigns; for they ſtand high, all eyes
+are upon them, nothing they ſay or do eſcapes ob<g ref="char:EOLhyphen"/>ſervation
+and cenſure; if any thing be amiſs (as
+in the diſtraction of many cares, and multipli<g ref="char:EOLhyphen"/>city
+of much buſineſs, 'tis impoſſible but that ſome
+ſlips ſhould happen, ſome errors be committed)
+they are ſure to hear of them to their greateſt diſ<g ref="char:EOLhyphen"/>advantage:
+a <hi>Mote</hi> will be<g ref="char:punc">▪</g> called a <hi>Beam,</hi> a <hi>Gnat</hi>
+a <hi>Camel;</hi> and a few will be multiplied into
+many.</p>
+                  <p>'Twere happy with the world, were every man
+as <hi>wiſe</hi> as he thinks himſelf; but the <hi>opinion of
+Wiſdome</hi> is the greateſt part of <hi>Folly,</hi> and that the
+common diſeaſe of Mankind: And ſo much the
+worſe, becauſe they ever think themſelves wiſeſt
+in other mens buſineſs, are ever complaining
+<pb n="6" facs="tcp:115685:5"/>
+they do not their duty, eſpecially <hi>Governours,</hi> whoſe
+great misfortune it is, that if all be well with us
+by their care and wiſdom, we thank our ſelves
+for it; if any thing amiſs, we blame them; and
+what fals upon us by our own <hi>ſins,</hi> we uſu<g ref="char:EOLhyphen"/>ally
+with great injuſtice impute to their <hi>errors.</hi>
+And which is ſtill worſe, if they cannot be juſtly
+charged with any miſcarriage, yet that helps not:
+Innocency is no protection for them; their place
+and power is crime enough to pull them down,
+others would be where they are, who like the
+Devil (as St. <hi>Bernard) Malunt miſerè praeeſſe, quam
+feliciter ſubeſſe;</hi> had rather be miſerable in power,
+then happy in ſubjection; and then to make
+way for their ambition, faults muſt be found,
+though there be none; and 'tis ſtrange how far
+impudent <hi>calumnies</hi> prevail with a diſcontented
+people, and gain belief beyond all imagination,
+ever againſt ſenſe and reaſon.</p>
+                  <p>And therefore if you look upon the beſt of
+PRINCES in prophane Stories,<note place="margin">The beſt of Princes moſt exer<g ref="char:EOLhyphen"/>ciſed in Afflicti<g ref="char:EOLhyphen"/>ons.</note> you ſhall find
+them by theſe Arts and wayes exerciſed as much as
+any, if not more; by <hi>Mutinies, Seditions, Rebellions:</hi>
+I forbear inſtances very obvious, and ſhall onely
+touch upon ſome we find regiſtred in Scripture.
+And firſt upon <hi>David</hi> in the Text.</p>
+                  <p>A vertuous and pious man,<note place="margin">DAVID.</note> a great Souldier, a
+gracious Prince, one that wanted nothing to ob<g ref="char:EOLhyphen"/>lige
+a people to obedience and reſpect, <hi>a man after
+<pb n="7" facs="tcp:115685:5"/>
+Gods own heart, 1 Sam.</hi> 13. 14. propoſed as a pattern
+to <hi>Solomon,</hi> with a promiſe to entail his Kingdome
+and bleſſing upon him and his poſterity, if he
+would <hi>but walk in his ſteps, 2 Chron. 7. 17<g ref="char:punc">▪</g>
+                     </hi> 18. the
+meaſure and ſtandard by which the ſucceeding
+Princes were judged <hi>His heart was not perfect, as
+my ſervant Davids;</hi> ſo of many: Or, he did <hi>accord<g ref="char:EOLhyphen"/>ing
+to all that my ſervant David did;</hi> ſo of others, and
+that was thought commendations enough<g ref="char:punc">▪</g> His
+Vertues out-lived himſelf, and many generations
+fared the better for him; <hi>Solomon</hi> the Father, and
+<hi>Rehoboam</hi> the Son, and many more preſerved from
+utter ruine for his ſake. And in the days of <hi>Heze<g ref="char:EOLhyphen"/>kiah</hi>
+(above Three hundred years after) <hi>Jeruſalem</hi>
+her ſelf in greateſt diſtreſs, defended by God, for
+his <hi>own ſake, and for his ſervant Davids ſake. 2 Kings</hi>
+19. 34.</p>
+                  <p>Yet this rare and excellent perſon, this gracious
+Prince, the very <hi>light of Iſrael,</hi> as his Subjects ſti<g ref="char:EOLhyphen"/>led
+him, 2 <hi>Sam.</hi> 21. 17. was reſtleſs all his
+days; I cannot reckon his <hi>troubles,</hi> becauſe he
+himſelf ſays they were <hi>innumerable, Pſal.</hi> 40. 12.
+nor his enemies that <hi>hated him without cauſe,</hi> and
+ſought to <hi>deſtroy him wrongfully,</hi> for <hi>they were mighty,
+Pſal.</hi> 38. 19. and <hi>more then the hairs of his head, Pſal.</hi>
+69. 4. and that of all ſorts, from the graveſt that
+<hi>ſate in the Gates,</hi> (the place of Judicature) <hi>verſ.</hi> 12.
+down to the <hi>Drunkards</hi> and very ſcum of the peo<g ref="char:EOLhyphen"/>ple,
+the one <hi>made ſongs,</hi> the other put ſcorns <hi>upon
+<pb n="8" facs="tcp:115685:6"/>
+him, Pſal.</hi> 35. 15. ſlandered his <hi>Perſon,</hi> traduced
+his <hi>Government,</hi> which God himſelf never found
+fault with; and at laſt took Arms againſt him,
+drove him from his <hi>Houſe</hi> and <hi>Imperial City,</hi> forced
+him to flee he knew not whither, glad to take any
+way for preſent ſafety: And to make up his ſor<g ref="char:EOLhyphen"/>rows
+to the full, who ſhould head theſe Rebels
+but his dearly beloved <hi>Abſolom!</hi> who drew into
+conſpiracy with him, beſides the moſt of his Sub<g ref="char:EOLhyphen"/>jects,
+even his own <hi>familiar friends whom he truſted,
+which did alſo eat of his bread;</hi> ſuch as he had moſt
+obliged, his very Favourites, as he complained
+<hi>Pſal.</hi> 41. 9. and <hi>Pſal.</hi> 55. 13. where he bemoans
+his own preſent diſtreſs, and the perfidiouſneſs of
+his own principal Servants and Councellors, who,
+with <hi>Abſalom,</hi> ſought his Life and Crown: Nay,
+they ſuffered him not to die in peace; for <hi>Adonijah,</hi>
+another of his darling Sons, obtrudes himſelf a
+Succeſſor upon him, without his conſent or
+knowledge, and as it were to bury him alive.
+1 <hi>Kin.</hi> 1. 5, 6.</p>
+                  <p>Thus was this excellent <hi>King</hi> uſed.<note place="margin">SOLOMON</note> And though
+he left behind him a Succeſſor, a glorious type of
+Chriſt, <hi>Solomon,</hi> the wiſeſt King that ever was, or
+ever will be; yet he fared little better. He was
+himſelf the <hi>wonder,</hi> and made his people the <hi>envy</hi>
+of the world, by the affluence of all temporal
+bleſſings; they had <hi>Silver and Gold as ſtones, 2 Chro.</hi>
+1. 15. they were multiplied as the <hi>ſand of the ſea,
+<pb n="9" facs="tcp:115685:6"/>
+eating and drinking, and making merry, 1 Kin.</hi> 4. 20.
+a ſtate of life one would think that no diſcontent
+could lodge with. But <hi>peace</hi> and <hi>plenty,</hi> which
+are thought to make men <hi>happy,</hi> cannot always
+make them <hi>quiet</hi> and <hi>content;</hi> nor can any benefits
+though never ſo great, ſtop the mouth of ingra<g ref="char:EOLhyphen"/>titude
+and impatience. While all the world
+thought them the happieſt people under the Hea<g ref="char:EOLhyphen"/>ven,
+they murmur and complain at I know not
+what imaginary <hi>burdens,</hi> which they call <hi>heavy,</hi>
+and a <hi>greivous Yoke, 1 Kin.</hi> 12. 4. and ſo little to
+be endured, that they were ready to break out in<g ref="char:EOLhyphen"/>to
+Rebellion againſt him, had not God's mercy
+and his mercy prevented it, even in his time:
+And he no ſooner dead, but ten tribes, for that
+reaſon, caſt off the Government of his ſon, with
+what ſucceſs we all know.</p>
+                  <p>But theſe two, <hi>David</hi> and <hi>Solomon,</hi> had their
+faults, and great ones too, for which they were
+puniſhed! 'Tis true, they had ſo; but none to
+provoke their people to diſobedience; they were
+private and Perſonall, not of publick concernment;
+their Government was juſt and moderate, never
+taxed by God as their faults were; and if this
+muſt be aſſigned a juſt cauſe of diſturbance, that
+they were <hi>Governed by Men</hi> not by <hi>Angels,</hi> by thoſe
+ſubject to humane infirmities like themſelves, all
+the world will be in a combuſtion, and none left
+to govern in peace.</p>
+                  <p>
+                     <pb n="10" facs="tcp:115685:7"/>
+But what ſay you then (in the laſt place) to
+Innocency it ſelf, one againſt whom nothing
+could be juſtly objected,<note place="margin">Moſes.</note> either as a private or
+publick perſon? ſure he muſt needs eſcape the
+malice and machinations of all male contents!
+No, he did not; his condition as bad as any.
+'Twas <hi>Moſes</hi> I mean; ſo rare a perſon, that (as
+St. <hi>Ambroſe) he blotted out all that was man in him
+by the purity of a converſation wholly celeſtiall.</hi>
+And <hi>Joſephus</hi> tels us, <hi>that his affections were ſo go<g ref="char:EOLhyphen"/>verned
+by wiſdome, that he ſeemed utterly to want
+them, &amp; that he knew only the names of thoſe paſ<g ref="char:EOLhyphen"/>ons,
+which he perceived to be too active in other men.</hi>
+Moſt certain it is, that he was an excellent <hi>perſon</hi>
+in himſelf, and an excellent <hi>Governor</hi> to them: I
+cannot inſiſt upon his particular Vertues in either
+kind; ſure I am, he wanted none that might oblige
+his people to obedience. Yet, beſides and above all,
+what a ſeries of <hi>Miracles</hi> were wrought by God, to
+give him authority and credit among the people?
+And ſure all this might have been ſufficient to ſe<g ref="char:EOLhyphen"/>cure
+his quiet in a Government ſo poor and bur<g ref="char:EOLhyphen"/>thenſome<g ref="char:punc">▪</g>
+and ſuch as was impoſſible for any elſe
+to manage without the ſame miraculous aſſiſtance
+of God.</p>
+                  <p>And yet all this could not do it; for notwith<g ref="char:EOLhyphen"/>ſtanding
+all theſe advantages, what a weariſom life
+did he lead in a continuall ſucceſſion of <hi>murmur<g ref="char:EOLhyphen"/>ings,
+mutinies, conſpiracies, rebellions</hi> of perſons
+<pb n="11" facs="tcp:115685:7"/>
+neither few nor mean, and ſome of his <hi>own blood?</hi>
+How many faults do they charge him with? <hi>Am<g ref="char:EOLhyphen"/>bition,
+miſgovernment,</hi> a deſign to bring the people
+out of <hi>Aegypt</hi> to periſh in the Wilderneſs, as if
+there <hi>wanted graves there,</hi> and theſe reproaches of<g ref="char:EOLhyphen"/>ten
+repeated: And with a wonderfull ſtrange im<g ref="char:EOLhyphen"/>pudence
+they call him <hi>Tyrant,</hi> a <hi>killer of Gods peo<g ref="char:EOLhyphen"/>ple,</hi>
+for what's that elſe? And this more then
+once or twice, <hi>Numb.</hi> 14. and <hi>Numb.</hi> 16. And
+though God choſe him to that command for his
+very <hi>Meekneſſe, Ecclus</hi> 45. 4. and he was indeed
+the <hi>meekeſt man upon the face of the earth Num. 12
+3.</hi> yet he is traduced by them as a <hi>Killer of God's
+people,</hi> as <hi>a Tyrant;</hi> ſuch is the juſtice of Rebels. It
+cannot then be thought ſtrange that any after him
+ſhould ſuffer under the like calumny that deſer<g ref="char:EOLhyphen"/>ved
+it as little: For if any way faulty, 'twas in
+too much Lenity.</p>
+                  <p>Thus you ſee how impoſſible it is for Gover<g ref="char:EOLhyphen"/>nours
+to eſcape theſe ſcourges, whether they de<g ref="char:EOLhyphen"/>ſerve
+them or no, whether inocent or guilty. For
+if <hi>Moſes</hi> the <hi>meekeſt, David</hi> the <hi>beſt, Solomon the
+wiſeſt</hi> of <hi>Kings,</hi> felt the ſmart of popular murmur<g ref="char:EOLhyphen"/>ings,
+tumults and rebellions; perſons as excel<g ref="char:EOLhyphen"/>lent
+as ever the world had any, or ever will have;
+if they could not eſcape, what good Prince ſhould
+forfeit his patience by it? think it ſtrange, or be
+diſcouraged at it? Or how dare any miſ-judge
+or cenſure them for it, as if forſaken of God, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="12" facs="tcp:115685:8"/>
+abuſed by men? or deſigned for utter ruine,
+becauſe under his fatherly correction. Conſider
+who theſe were, what they did, and what they
+ſuffered, and then let him that dare pronounce
+amiſſe of any in their caſe and condition.</p>
+                  <p>'Tis clear then by what has been ſaid, that the
+<hi>beſt of Kings</hi> may be <hi>under the Croſs,</hi> as much as
+any, and more than any have been, and certainly
+wil be ſo to the world's end; and ſo will, as much
+as any, need <hi>deliverance,</hi> &amp; ſhal undoubtedly have
+it, they eſpecially, they before and above others.
+For they are <hi>God's peculiar care,</hi> they are his <hi>Offi<g ref="char:EOLhyphen"/>cers,</hi>
+his <hi>Deputies,</hi> his honor is concerned in them,
+and the preſervation of them is the good of many;
+<hi>Thou art worth ten thouſand of us,</hi> ſay <hi>David's</hi>
+Subjects to him, 2 <hi>Sam.</hi> 18. 3.</p>
+                  <p>But though <hi>delivered</hi> they ſhall be, and ever will
+be, yet 'tis not always at the ſame time; ſome conti<g ref="char:EOLhyphen"/>nue
+longer under the Croſs, ſome are eaſed ſoon<g ref="char:EOLhyphen"/>er:
+Nor in the ſame manner and way; ſome he
+preſerves and ſupports <hi>in danger,</hi> and at laſt gives
+them ſafety and peace; others he delivers <hi>from
+danger,</hi> by taking them to himſelf. The firſt was
+the Deliverance of the <hi>three Children,</hi> when they
+came untouch'd out of the fire; the ſecond of the
+<hi>Maccabees,</hi> and thouſands more, whom by a glori<g ref="char:EOLhyphen"/>ous
+<hi>Martyrdom</hi> he took to himſelf. Great Delive<g ref="char:EOLhyphen"/>rances
+both, but that of the <hi>Maccabees</hi> much the
+greater, much the better; when from a fading
+<pb n="13" facs="tcp:115685:8"/>
+Crown, a Scepter clouded with cares, and a trou<g ref="char:EOLhyphen"/>bleſome
+Life ever tending to Death, they are de<g ref="char:EOLhyphen"/>livered
+up to a Crown of Glory, and a Life Eter<g ref="char:EOLhyphen"/>nal
+in the Heavens. He that looks not on this as
+the better of the two, deſerves neither; and one of
+the two they, and all his Servants, may be ſure of.
+So that let <hi>the troubles of the righteous be many &amp;
+great,</hi> as indeed <hi>many and great</hi> they uſually are, yet
+firſt or laſt, one way or other, and ever to his beſt
+advantage, <hi>the Lord delivers him out of all, Pſal.</hi>
+34. 18. And ſo I paſs from the <hi>Perſon</hi> here <hi>deli<g ref="char:EOLhyphen"/>vered,</hi>
+to the <hi>Lord that delivered him,</hi> the ſecond
+thing propoſed to your conſideration.</p>
+               </div>
+               <div n="2" type="part">
+                  <p>II. THat <hi>all Deliverance comes from</hi> (him,<note place="margin">2. God the Deliverer.</note>
+from) <hi>the Lord,</hi> 'twere needleſs to multi<g ref="char:EOLhyphen"/>ply
+Proofs out of <hi>Scriptures,</hi> which are but the Re<g ref="char:EOLhyphen"/>giſters
+of his <hi>Providence,</hi> and you cannot look be<g ref="char:EOLhyphen"/>ſides
+them there. And 'tis no leſſe apparent unto
+<hi>Reaſon;</hi> for that <hi>(with great clearneſs, and by a
+degree of evidence even beyond knowledge,</hi> as thoſe
+old Philoſophers <hi>Hermes</hi> and <hi>Jamblicus</hi> expreſs it)
+finds that <hi>there is a God,</hi> and from thence (with
+as great evidence) demonſtrates a <hi>Providence.</hi> So
+that ſhould I lead you out of the <hi>Church</hi> into the
+<hi>Schools</hi> of <hi>Philoſophers, Poets, Historians,</hi> Writers
+of all ſorts among the Heathens, you would finde
+them, by the very inſtinct and impreſſion of
+Nature, acknowledging the ſame truth; ever
+<pb n="14" facs="tcp:115685:9"/>
+aſcribing all good ſucceſſes to their <hi>Gods,</hi> and
+accordingly giving thanks, offering ſacrifices, in<g ref="char:EOLhyphen"/>ſtituting
+Feaſts and Holy-dayes, putting Garlands
+upon their Images, leaving part of their ſpoils ta<g ref="char:EOLhyphen"/>ken
+in their Temples: A Truth ſo viſible, that
+even blind Nature ſaw it.</p>
+                  <p>But to our great ſhame and greater grief be it
+ſpoken,<note place="margin">His parti<g ref="char:EOLhyphen"/>cular provi<g ref="char:EOLhyphen"/>dence.</note> we have ſome among us (I hear many)
+more heatheniſh than the Heathen, that will not
+allow <hi>God</hi> to govern in his own Houſe, that deny
+him any <hi>care of things below;</hi> ſo far from deliver<g ref="char:EOLhyphen"/>ing
+us out of danger, that he neither regards how
+we come in, or how we get out, nor at all looks
+after any thing elſe we are concern'd in. A per<g ref="char:EOLhyphen"/>ſwaſion
+extreamly croſs to the <hi>common notions</hi> of
+mankind, and impreſſions of <hi>Nature,</hi> that wholly
+makes void and ridiculous the duty we are about,
+and indeed all other; for 'tis totally <hi>deſtructive</hi> of
+all <hi>Vertue, Religion<g ref="char:punc">▪</g>
+                     </hi> and <hi>Government,</hi> none of which
+can poſſibly ſubſiſt, without a belief, a ſenſe, a reve<g ref="char:EOLhyphen"/>rence
+of ſome <hi>Divine Power</hi> that will be ſure to
+call for an account of whatſoever we do. Yet they
+ſay, theſe are the <hi>great Wits</hi> of the time, the onely
+men of parts among us. I wonder at it; 'twas not
+ſo thought of old; the language of the <hi>Pſalmiſt</hi> elſ<g ref="char:EOLhyphen"/>where
+imports not any great eſteem of them; Nay,
+he is ſo far from it, that he wonders at their <hi>ſottiſh<g ref="char:EOLhyphen"/>neſs:
+O ye bruitiſh among the people, &amp; ye fools, when
+wil ye be wiſe? Pſ.</hi> 94. 8. He ſpeaks of ſuch as when
+<pb n="15" facs="tcp:115685:9"/>
+they do wickedly, ſay; <hi>Tuſh, the Lord ſhall not ſee,
+neither ſhal the God of Jacob regard it, v.</hi> 7. He wil
+neither <hi>take notice,</hi> nor <hi>puniſh,</hi> he looks after no<g ref="char:EOLhyphen"/>thing
+here below, we may do what we pleaſe for
+him. Now let who will admire them, yet theſe are
+the men he cals <hi>bruits</hi> and <hi>fools,</hi> and he doth it
+not once or twice, but very oft. <hi>The fool hath ſaid in
+his heart, There is no God, Pſ.</hi> 14. 1. that is, no <hi>Judge,</hi>
+no <hi>Providence,</hi> (as the word there ſignifies.) And
+again, <hi>Pſal.</hi> 53. 1. and oft elſewhere, if not in the
+ſame words, yet to the ſame ſenſe and purpoſe. I
+hope you will not think the term uncivil, 'tis not
+mine, but <hi>David's.</hi> And if you doubt whether
+they deſerve it, you ſhall have it from a <hi>wiſer</hi> than
+he, &amp; I hope one they will <hi>acknowledge wiſer</hi> than
+themſelves too, even from <hi>Solomon,</hi> who being the
+wiſeſt of all men, might have the priviledge to be
+bold with them, as one that beſt knew what they
+were; yet he brings them in wondring at the re<g ref="char:EOLhyphen"/>ward
+of the Righteous, which they believed little
+of, and putting upon themſelves that ſcorn and ti<g ref="char:EOLhyphen"/>tle,
+<hi>We fools counted his life madneſs, Wiſd.</hi> 5. 4.
+We thought our ſelves <hi>wiſe</hi> in purſuing pleaſure
+without check or reſtraint, and him <hi>mad</hi> for not
+doing as we did: but now we finde<g ref="char:punc">▪</g> (too late in<g ref="char:EOLhyphen"/>deed)
+but find it we do, and that to our confuſion
+and horror, that his <hi>Madneſs</hi> was <hi>Wiſdom;</hi> and
+our <hi>Wiſdom folly; We fools</hi> thought ſo, but <hi>Fools</hi>
+we were, for ſo thinking. Now what <hi>fools</hi> ſay is
+<pb n="16" facs="tcp:115685:10"/>
+little to be regarded; the Sun ſhines though the
+blind ſee it not, and <hi>a God</hi> and <hi>Providence</hi> there is
+that ſends Deliverance, though the <hi>fool</hi> ſay, There
+is not: and ſo let the <hi>Atheiſt</hi> paſſe under <hi>David's</hi>
+and <hi>Solomon's</hi> Character, while we to our great
+comfort (one of the greateſt we are capable of in
+this world) acknowledge, believe, and viſibly ſee,
+and by experience find, That there is a good <hi>Pro<g ref="char:EOLhyphen"/>vidence</hi>
+over us that orders all the affairs of the
+world from the leaſt to the greateſt; from <hi>Empires</hi>
+and <hi>Thrones to the falling of a Sparrow on the
+ground, and the very numbring of our hairs,</hi> as our
+Saviour <hi>S. Math.</hi> 10. 29, 30.</p>
+                  <p>That as 'tis He, and He only, that brings us into
+danger, that lays afflictions on us for our ſins; (for
+<hi>who gave Jacob for a ſpoil, and Iſrael to the rob<g ref="char:EOLhyphen"/>bers?
+did not the Lord, he againſt whom they had
+ſinned? For they would not walk in his ways,
+neither were they obedient to his Law,</hi> therefore <hi>he
+hath powred upon them the fury of his anger, and
+the ſtrength of battel,</hi> Iſa. 42. 24, 25. Juſt our
+caſe, we ſerved him ſo, he ſerved us ſo; our
+great ſins brought his great judgements upon us.
+And) ſo againe 'tis He, and He onely, that
+muſt remove thoſe afflictions, that muſt de<g ref="char:EOLhyphen"/>liver
+out of thoſe dangers: For, <hi>who is
+God but the Lord? and who hath any ſtrength</hi> to
+doe it <hi>except our God?</hi> 'Tis <hi>David's</hi> queſtion
+at ver. 31. of this <hi>Pſalm,</hi> and our anſwer muſt be,
+<pb n="17" facs="tcp:115685:10"/>
+None can do it elſe, none but he: Neither <hi>Men,</hi>
+nor <hi>Angels,</hi> nor any nor all the <hi>Creatures</hi> of Heaven
+and Earth can give it. They may be <hi>Inſtruments</hi>
+in his hand, which he moves, directs, orders, li<g ref="char:EOLhyphen"/>mits
+and reſtrains, when he will and how he will;
+he delivers by them if you will; and he too with<g ref="char:EOLhyphen"/>out
+them when he will<g ref="char:punc">▪</g> no <hi>Means</hi> too weak with
+him, none ſtrong enough without him; but
+whether with or without <hi>means,</hi> 'tis ſtill he that
+does it, he that delivers, and none elſe; For <hi>the
+help that is done upon Earth, he doth it himſelf,</hi>
+as 'tis in the Old Tranſlation <hi>Pſal.</hi> 74. 13.</p>
+                  <p>Sure I am,<note place="margin">Application.</note> we found it ſo; all we did, or could
+do, toward a ſettlement proved nothing worth, all
+attempts vain, no <hi>Treaties,</hi> no <hi>Armies,</hi> no <hi>Endeavors</hi>
+by our ſelves or others that wiſhed well to our
+Peace did us good, though never ſo probable, ne<g ref="char:EOLhyphen"/>ver
+ſo hopeful; they were all loſt and fruſtrate, all
+vaniſhed into nothing. How viſible was Gods
+hand in it, when all raſh and unreaſonable <hi>attempts</hi>
+proſpered with ſome, while others failed in the
+beſt and moſt probable? And either the <hi>worſt
+Counſels</hi> were followed (as it uſually happens
+when God determines to judge and afflict a ſinfull
+Nation) or the <hi>beſt</hi> never proſpered, but when
+brought to ripeneſs miſcarried in the birth. Thus
+it conſtantly was, and thus it would have been
+till we had been utterly conſumed, had not he
+had mercy on us, had he not raiſed up a <hi>Deliverer,</hi>
+                     <pb n="18" facs="tcp:115685:11"/>
+never to be mentioned without Honour, nor to
+be forgotten in the <hi>Prayers</hi> of all good People, that
+God would multiply his favours and bleſſings,
+both temporal and ſpiritual, upon his <hi>Perſon</hi> and
+<hi>Poſterity</hi> for many Generations.</p>
+                  <p>But whoever were the Inſtruments of our <hi>deli<g ref="char:EOLhyphen"/>verance,</hi>
+we muſt ſtill remember to raiſe up our
+thoughts to him by whoſe power they wrought
+it, and give him the glory of all; ſince nothing is
+more certain that none did it, none could do it
+but he; and having this experience of his power
+and goodneſſe, it muſt be a warning to us here<g ref="char:EOLhyphen"/>after,
+that we looſe not our labour in ſeeking it elſe<g ref="char:EOLhyphen"/>where;
+that we have patience to wait for it till
+he is pleaſed to give it; that we ſuffer not our eager
+deſires or fears to haſten it, by unlawful means, to
+purchaſe it by ſin.</p>
+                  <p>VVere we right <hi>in our Faith,</hi>
+                     <note place="margin">We muſt not do evill that good may come of it.</note> we ſhould think it
+impoſſible to be had without him (as indeed it
+is, unleſſe he permit it for our greater miſchief; for
+who can <hi>reſiſt his will?)</hi> and were we right in
+our <hi>Wits,</hi> we ſhould not think it worth the ha<g ref="char:EOLhyphen"/>ving,
+but by him; for he that to eſcape <hi>Danger,</hi>
+runs into a <hi>ſin,</hi> is much like the ſtarting Horſe, who
+to avoid a <hi>ſhadow</hi> upon one ſide the way, leaps
+down a <hi>precipice,</hi> to his ruine, on the other, and
+like him that for fear of a leſſer, runs into a greater
+miſchief: and to avoid a <hi>Pot-gun,</hi> throws himſelf
+into the mouth of a <hi>Cannon.</hi> A ſad bargain it is,
+<pb n="19" facs="tcp:115685:11"/>
+let the <hi>State-Atheiſt</hi> think what he will, to buy de<g ref="char:EOLhyphen"/>liverance
+from the greateſt <hi>temporal miſchief,</hi> by the
+leaſt <hi>wilfull ſin;</hi> to ſave Wealth, Honour, Crowns
+and Scepters, Life it ſelf, any thing we have, or
+all, at the loſs of our God, at the expence of our
+Soul, which exceeds the whole VVorld in value,
+and all it hath in it.</p>
+                  <p>But there is a further degree of <hi>Folly</hi> in this
+courſe, ſtill a greater blindneſs; for we ſacrifice
+the comforts of this Life, and hopes of a better,
+(which every wilful known ſin robs us of) for
+juſt <hi>nothing:</hi> VVe believe indeed we purchaſe <hi>deli<g ref="char:EOLhyphen"/>verance</hi>
+by <hi>ſin,</hi> and think we have it, when at the
+beſt 'tis but an <hi>exchange</hi> of danger, and that too
+the little for the great; ſome trouble here, for
+eternal damnation hereafter: Nay 'tis not al<g ref="char:EOLhyphen"/>ways,
+not oft ſo much neither, as an <hi>exchange</hi> of
+danger, (though that bargain is made ſad enough
+by the diſproportion) but a <hi>doubling</hi> of it if you
+will; a contracting a new <hi>danger</hi> by a new <hi>ſin,</hi> and
+but a running from the old <hi>one way,</hi> to meet it <hi>an<g ref="char:EOLhyphen"/>other;</hi>
+a bringing of what we labour to avoid, with
+more ſpeed and greater certainty upon us.</p>
+                  <p>VVould you have Reſolution of a <hi>Council</hi> of
+<hi>State-Atheiſts</hi> in the caſe, and ſee how it ſped?
+You ſhall find it at the <hi>11 chap.</hi> of St. <hi>John</hi>'s Goſ<g ref="char:EOLhyphen"/>pel,
+<hi>verſ. 47. 48. What do we?</hi> (ſay the <hi>Prieſts</hi> and
+<hi>Phariſees</hi> ſitting in Council againſt our Saviour)
+<hi>for this man doth many miracles, and if we let him a<g ref="char:EOLhyphen"/>lone,
+<pb n="20" facs="tcp:115685:12"/>
+all men will believe on him, and the Romans ſhall
+come and take away both our place and Nation.</hi> What
+was reſolved on? what was done upon this? Why,
+the fear of this <hi>danger</hi> put them upon a horrid <hi>ſin,</hi>
+the ſhedding of moſt innocent blood, they mur<g ref="char:EOLhyphen"/>dered
+him: And did that avoid the danger they
+feared by it? No; the <hi>Romans</hi> did come, and for
+the puniſhment of that very ſin, <hi>took away their
+place,</hi> carried them captive, deſtroyed their <hi>Nation.</hi>
+'Tis St. <hi>Auguſtine</hi>'s obſervation, confirmed by the
+experience of all Ages.</p>
+                  <p>I will not ſay it always happens ſo; a ſpeedy
+<hi>Repentance</hi> may ſometimes give a ſtop to the or<g ref="char:EOLhyphen"/>dinary
+courſe of Gods <hi>Judgments;</hi> but it very oft,
+it moſt commonly happens ſo, as all <hi>Hiſtories</hi> wit<g ref="char:EOLhyphen"/>neſs,
+and our own <hi>Experience</hi> can tell us, perhaps
+in our own particular affairs; in the <hi>Publick</hi>
+it hath ever been too too viſible, when <hi>Reaſon</hi> of
+<hi>State</hi> is oppoſed to <hi>God, prudence</hi> (falſly ſo called)
+and cunning, to <hi>Juſtice</hi> and <hi>honeſty.</hi> For when
+we begin once to diſtruſt that God cannot, or will
+not <hi>provide</hi> for our ſafety, and fall to ſhift for our
+ſelves by ſuch ways as he approves not, we forfeit
+our title to his good <hi>providence,</hi> (which one way
+or other would moſt certainly ſave us, did we de<g ref="char:EOLhyphen"/>pend
+upon it) and bring upon our ſelves the ſad
+effects of diſtruſt, by <hi>changing</hi> our <hi>probable fears</hi> in<g ref="char:EOLhyphen"/>to
+<hi>certain ſufferings,</hi> and very oft into the ſame we
+run from; for we very ſeldome do wickedly to
+<pb n="21" facs="tcp:115685:12"/>
+prevent a miſchief, but that very miſchief falls up<g ref="char:EOLhyphen"/>on
+us, as a puniſhment for that wickedneſs. A hun<g ref="char:EOLhyphen"/>dred
+inſtances might be given out of Story, and moſt
+mens breaſts would be found Regiſters of this ſad
+Truth, would they be pleaſed to ſearch them well<g ref="char:punc">▪</g>
+So clear is that of the <hi>Preacher.</hi> That <hi>wickedneſs ſhall
+not deliver thoſe that are given to it. Eccleſ.</hi> 8. 8.</p>
+                  <p>And therefore if we do indeed believe this moſt
+certain truth, <hi>That all deliverance is from the Lord,</hi>
+we muſt ſhew the fruits of that <hi>Faith,</hi> when in di<g ref="char:EOLhyphen"/>ſtreſſe.
+And if we cannot by good wayes compaſſe
+our ſafety, never ſtrive to do it by ill; but ſubmit,
+and expect with <hi>patience</hi> till he is pleaſed to give it:
+For then, and not till then, 'twill be a <hi>Deliverance,</hi>
+indeed. VVe muſt not run to the Creature for
+relief in <hi>dangers but to him;</hi> nor expect <hi>deliverance<g ref="char:punc">▪</g>
+                     </hi>
+but from Him, nor ſeek <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t but in his way, by him,
+and at his time: And when we have it, to be ſure
+with <hi>David</hi> to <hi>thank</hi> him for it, to pay our Tri<g ref="char:EOLhyphen"/>bute
+where it is due. And ſo I paſſe to the laſt parti<g ref="char:EOLhyphen"/>cular
+propoſed, <hi>Davids thankfulneſſe for his Deli<g ref="char:EOLhyphen"/>verance.
+I will give thanks unto thee (O Lord)
+among the Heathen, and ſing praiſes unto thy Name.</hi>
+                  </p>
+               </div>
+               <div n="3" type="part">
+                  <p>
+                     <pb n="22" facs="tcp:115685:13"/>
+                     <hi>
+                        <note place="margin">3. Davids thankfulneſs</note>III. YOu have had the</hi> Perſon delivered, <hi>and</hi>
+He that delivered him; <hi>now follows the</hi>
+Duty to be performed upon the deliverance: <hi>VVhere
+we may obſerve,</hi>
+                     <list>
+                        <item>1. <hi>The perſon performing it,</hi> that's David: I <hi>will</hi>
+do it, ſaith he.</item>
+                        <item>2. The Duty it ſelf, <hi>that's</hi> Thanksgiving: I will
+give thanks.</item>
+                        <item>3. <hi>The Manner how</hi> he will do it, and that
+is,</item>
+                        <item>1. <hi>Publickly,</hi> diffuſively not only in the
+Church, but <hi>among the Heathen</hi> too:</item>
+                        <item>2. Cheerfully, I will ſing praiſes.</item>
+                     </list>
+                  </p>
+                  <p>Somthing of each of theſe in the order propoſed.
+And firſt of the <hi>Perſon.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">4. The Per<g ref="char:EOLhyphen"/>ſon, [I will.]</note>1. I <hi>will</hi> (ſayes <hi>David,)</hi> and good reaſon he
+ſhould, <hi>He</hi> in the firſt place, He to lead the way,
+to give the example. The bleſſings were <hi>publick,</hi>
+and he a publick <hi>perſon,</hi> ſo more concerned in
+them then any other, yet others concerned too
+as well as he, though not ſo much, even in thoſe
+<hi>Dangers</hi> that aimed only at his <hi>perſon<g ref="char:punc">▪</g>
+                     </hi> For that
+being of <hi>publick concernment,</hi> his <hi>Dangers</hi> and <hi>De<g ref="char:EOLhyphen"/>liverances</hi>
+could be no leſs: As the <hi>Members</hi> for the
+<hi>Head,</hi> hurt that, and all ſuffer with it, even the
+loweſt, the meaneſt, the miſchief deſcends to all
+and every one, deliver that from danger, and all
+rejoyce with it, all the better for it, ſo that if
+<pb n="21" facs="tcp:115685:13"/>
+the <hi>King</hi> have cauſe to <hi>give thanks,</hi> if he ſay <hi>I will</hi>
+do it, all and every one of his Subjects muſt do
+it too.</p>
+                  <p>'Tis a great ſhame and folly too, as well as a
+great ſin, ſo to mind our private as if we had
+no relation to the <hi>publick;</hi> no Obligation to
+mourn for, to endeavour to remove <hi>National ca<g ref="char:EOLhyphen"/>lamities;</hi>
+or to <hi>give thanks</hi> and rejoyce for publick
+Mercies and Deliverances, ſince the <hi>publick</hi> inte<g ref="char:EOLhyphen"/>reſt
+is each <hi>paticular</hi>'s; for <hi>Quod examini expedit,
+idem api;</hi> What's good for the <hi>whole,</hi> is good for
+every <hi>part:</hi> And therefore we ſhould be as <hi>thank<g ref="char:EOLhyphen"/>full</hi>
+for <hi>common bleſſings,</hi> as if they were beſtow<g ref="char:EOLhyphen"/>ed
+onely upon us; ſince we have our full ſhare in
+them, and in our proportion as much as any.
+To inſtance in that which moſt concerns us;
+<hi>peace</hi> is a collection of all temporal bleſſings, and
+that's <hi>Omnium tota &amp; ſingulorum,</hi> every one hath
+it as much as any, as much as all: Every one hath
+by it a comfortable and quiet enjoyment of all
+that belongs to him, every one hath His perſon
+and relations ſecured from violence, his fortune
+from rapine; and though He have not ſo much
+perhaps as others, yet his <hi>All</hi> is as much to him as
+all theirs to them; and theſe bleſſings are as full
+to thee, as if thou onely enjoyedſt them; and
+more to thy <hi>Security,</hi> becauſe others injoy them
+with thee. And therefore ſince <hi>every Man</hi> is con<g ref="char:EOLhyphen"/>cerned
+in the <hi>Benefit, every man</hi> muſt betake himſelf
+<pb n="24" facs="tcp:115685:14"/>
+to the <hi>Duty;</hi> that's <hi>Thankfulneſs. I will give thanks.</hi>
+The next particular.</p>
+                  <p>2. And here the time is very obſervable: Our
+<hi>Prophet</hi> was no ſooner <hi>delivered,</hi>
+                     <note place="margin">2. The Du<g ref="char:EOLhyphen"/>ty. [Give thanks.]</note> but he made a
+right uſe of that bleſſing, he fell to his Duty of
+<hi>Thanks</hi> for it; a thing not ſo uſuall, either with
+Kings or meaner perſons. For if any diſturbance
+intermit our ſinfull pleaſures, no ſooner that over,
+but we return to them again, and with more gree<g ref="char:EOLhyphen"/>dineſs.
+<hi>David</hi> will not do it; Now (ſaith he)
+I ſee the tempeſt over, the clouds diſperſed, my
+troubles at an end, ſhall I wanton it as before? No,
+<hi>I will give thanks unto thee, O Lord.</hi>
+                  </p>
+                  <p>And this example ſpeaks our duty; for as <hi>he</hi>
+did, ſo muſt <hi>we:</hi> In ill we follow <hi>Kings</hi> faſt enough,
+tread upon their heels, if not out-go them; their
+example works much upon us, too much; why
+not in Vertue: why not ſomething at leaſt that
+way? In a <hi>duty</hi> ſo neceſſary it ſhould, a Duty
+we cannot avoid without great <hi>ſin</hi> as here we can<g ref="char:EOLhyphen"/>not.
+For <hi>Gratitude</hi> is an act of <hi>Justice,</hi> the paying
+of a debt, and no part of <hi>Juſtice</hi> more neceſſary,
+even to preſerve the very frame of <hi>Nature</hi> and <hi>hu<g ref="char:EOLhyphen"/>mane
+ſociety,</hi> which ſubſiſt by nothing more, no<g ref="char:EOLhyphen"/>thing
+elſe, but a mutuall exchange of good offi<g ref="char:EOLhyphen"/>ces;
+take away theſe, the whole world and all in
+it muſt periſh: for no Man can live of himſelf, nor
+can any thing ſubſiſt of it ſelf, there muſt be a mu<g ref="char:EOLhyphen"/>tual
+gratitude and exchange of offices to preſerve all.</p>
+                  <p>
+                     <pb n="25" facs="tcp:115685:14"/>
+But the ſubject is infinit, ſhould we take it at
+large; we muſt reſtrain it to the preſent occaſi<g ref="char:EOLhyphen"/>on,
+and follow <hi>Davids</hi> ſteps as cloſe as we can;
+his caſe was much like ours; we equal'd him in
+danger, let's match him in thankfulneſſe; in him
+great <hi>bleſſings,</hi> and great <hi>thanks</hi> met well toge<g ref="char:EOLhyphen"/>ther;
+we come not behind in <hi>mercy,</hi> let's not
+fall ſhort in <hi>gratitude.</hi> Do it we muſt, and do it
+to the full we ſhould; that our <hi>Thankfulneſs</hi> may
+in ſome meaſure (at leaſt as far as our ability will
+carry us) anſwer his great <hi>bounty;</hi> ſince, where
+much is given, there's not a little required. VVe
+have his <hi>promiſe</hi> indeed, for <hi>deliverance</hi> out of
+<hi>danger,</hi> but 'tis uſher'd in with one <hi>command</hi> to
+<hi>ask</hi> it, and followed with another to be <hi>thankfull
+for it, Pſal. 50. 15. Call upon me in the time of
+trouble</hi> (there's the command to ask it) <hi>and I will
+hear thee,</hi> (there's the promiſed deliverance; for
+his hearing is delivering:)<g ref="char:punc">▪</g> 
+                     <hi>And thou ſhalt praiſe
+me;</hi> there's the duty enjoyned. The two firſt
+are paſt with us, God be thanked for it. We
+<hi>prayed,</hi> we <hi>asked,</hi> we <hi>called;</hi> he <hi>heared,</hi> he <hi>delivered.</hi>
+Now remains our duty, our <hi>praiſe and thanks<g ref="char:EOLhyphen"/>giving.</hi>
+                  </p>
+                  <p>A ſmall Tribute,<note place="margin">The duty eaſie.</note> God knows; a <hi>duty</hi> ſo <hi>eaſie,</hi>
+nothing can excuſe us from it. Other duties want
+not excuſes, have ſome juſt impediments in ſome
+perſons, and at ſome times; as <hi>poverty, impo<g ref="char:EOLhyphen"/>tency,
+ſickneſs,</hi> or the like; this hath none<g ref="char:punc">▪</g> can
+<pb n="26" facs="tcp:115685:15"/>
+have none: All may do it, and at any time; the
+rich and the poor, the ſick and the well, the
+lame<g ref="char:punc">▪</g> and the ſound: He that wants not an heart,
+though he want all things elſe, though a tongue,
+may yet <hi>give thanks</hi> and <hi>praiſe; Ipſum voluiſſe,
+laudaſſe eſt; non enim verba quaerit, ſed cor,</hi> Aug.
+in <hi>Pſal.</hi> 134. When all other ways of expreſſing
+our thanks fail us, if <hi>ſincerely</hi> and in <hi>earneſt</hi> we
+<hi>would</hi> do it, we have done it.<note place="margin">2. Little.</note>
+                  </p>
+                  <p>And as what he requires is <hi>eaſie,</hi> ſo 'tis <hi>little,</hi>
+very little; <hi>little in it ſelf,</hi> what can be leſs then
+<hi>Thanks;</hi> but compared with his great mercies,
+then this <hi>little</hi> is juſt nothing. The Patriarch <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>
+confeſſed to God, that he was <hi>leſs then the
+least of his Mercies, Gen.</hi> 32. 10. Yet he a <hi>Gyant</hi> in
+vertue and worth, we, the beſt of us, but <hi>Pig<g ref="char:EOLhyphen"/>nies</hi>
+to him; and if <hi>He</hi> (as great as he was) were
+<hi>leſs then the leaſt:</hi> What are <hi>
+                        <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</hi> to his <hi>great mercies,</hi>
+but juſt <hi>nothing.</hi>
+                  </p>
+                  <p>Yet ſuch poor wretches we are, 'tis <hi>All</hi> we have
+for him, <hi>All</hi> we can return to him; and if he
+will have <hi>any thing,</hi> he muſt have this <hi>nothing.</hi>
+And ſo gratious he is, that he calls for it, he ac<g ref="char:EOLhyphen"/>cepts
+it, he is content with this <hi>nothing,</hi> ſuch as
+it is: Requires no more from us, then <hi>thanks</hi> and
+<hi>praiſe;</hi> and a great vouchſafement it is, that he
+will ſuffer us to do it, ſo great and glorious he,
+ſo vile and deſpicable we; yet he will have it,
+he is pleaſed with it.</p>
+                  <p>
+                     <pb n="27" facs="tcp:115685:15"/>
+But that too for <hi>us,</hi>
+                     <note place="margin">3. Profitable to our ſelves.</note> not for <hi>himſelf; we</hi> gain
+by it, not <hi>he;</hi> 'tis nothing to <hi>him,</hi> much to <hi>us;</hi> he
+is neither the better, if we <hi>thank him,</hi> nor the
+worſe, if we <hi>thank him not;</hi> whether we praiſe
+or diſpraiſe him, he is ſtill the ſame; but we are
+both, better or worſe, as we do it, or neglect it;
+tis ever better with us when we do it, worſe
+when we do it not. Caſt any thing up toward
+Heaven, it falls down upon thee again; ſend up
+<hi>thanks</hi> and <hi>praiſe,</hi> and they deſcend in new <hi>favors</hi>
+and <hi>bleſſings;</hi> ſend them not up, and look for no
+more; <hi>Accipiendis indignus, qui de acceptis ingra<g ref="char:EOLhyphen"/>tus,</hi>
+Bern Nay look to loſe thoſe thou haſt, for be
+ſure they will wither and come to nothing;
+either they will be <hi>taken away,</hi> or if they ſtay,
+they ſhall not miniſter <hi>comfort,</hi> not <hi>that very com<g ref="char:EOLhyphen"/>fort</hi>
+which in their own nature they ſeem to
+bring; they are not, they ſhall not be <hi>bleſſings</hi> to
+thee; the <hi>comfort</hi> is gone, and that's not all; they
+turn to <hi>curſes,</hi> become aggravations of <hi>ſin,</hi> addi<g ref="char:EOLhyphen"/>tions
+to <hi>judgement:</hi> Such a wretched change doth
+<hi>unthankfulneſs</hi> make.</p>
+                  <p>Do but obſerve how uneaſie ſome men are in
+the affluence of all earthly bleſſings, how fro<g ref="char:EOLhyphen"/>ward,
+how diſcontent, how little joy they take
+in them? (and <hi>God</hi> grant it be not many a mans
+caſe amongſt us, and even in the enjoyment of
+our preſent bleſſings,) examine the cauſe, ſearch
+the root of this miſchief, and 'twill be found no<g ref="char:EOLhyphen"/>thing
+<pb n="28" facs="tcp:115685:16"/>
+but <hi>Ingratitude</hi> to <hi>God</hi> for them; who though
+he leaves the <hi>things</hi> themſelves, yet takes away the
+<hi>bleſſing,</hi> the joy, the comfort of them. And who
+can ſay, but that a ſlight eſteem, a negligent ac<g ref="char:EOLhyphen"/>knowledgment
+of his great favors, deſerves all this?</p>
+                  <p>Since then this duty of <hi>praiſe</hi> and <hi>thanks</hi> is ſo
+profitable, if we do it; ſo miſchievous, if we do it
+not; ſince we are happy, if we do it, (for do that,
+and God will do the reſt: Continue to multiply
+his <hi>bleſſings</hi> upon us, preſerve what we have, and
+give more, even more then we need, more then we
+ask;) and on the other ſide we are utterly undone,
+if we do it not; for then there is no keeping of what
+we have, or if the <hi>thing</hi> ſtay by us, the <hi>bleſſing</hi> of
+it will be taken from us, and we ſhall be as miſera<g ref="char:EOLhyphen"/>ble
+in Peace, and much more then we were in war.
+And as we cannot <hi>keep</hi> what we <hi>have,</hi> ſo we can<g ref="char:EOLhyphen"/>not
+<hi>hope</hi> for what we <hi>want:</hi> Our <hi>Ingratitude</hi> hath
+ſtopped the paſſage, dryed up the Fountain of
+his Mercies towards us, all our hopes are at an
+end.</p>
+                  <p>
+                     <hi>And the caſe being thus, 'tis moſt neceſſary that
+our next enquiry be,</hi> What this duty of thankful<g ref="char:EOLhyphen"/>neſſe
+is, <hi>and</hi> how we may diſcharge our ſelves of it
+as we ought,</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <pb n="29" facs="tcp:115685:16"/>
+GRATITUDE in its general notion,<note place="margin">Gratitude.</note> is that
+vertue, by which we make ſome convenient
+or fitting return to another, for ſome free benefit
+received from him, and the ſeveral <hi>acts, parts,</hi> or
+<hi>duties</hi> of it, are three.</p>
+                  <list>
+                     <item>1. To acknowledge the benefit.</item>
+                     <item>2. To thank and praiſe the Benefactor.</item>
+                     <item>3. To repay him with the like, or ſome other
+kindneſs, as our ability will ſerve, and
+opportunity is offered.</item>
+                  </list>
+                  <p>So that 'tis in the <hi>mind</hi> firſt, then in the <hi>mouth,</hi>
+both full of <hi>praiſe</hi> and <hi>thanks;</hi> yet the duty not
+full, untill it fill the <hi>hands</hi> too; <hi>conceived</hi> it muſt
+be in the <hi>heart, declared</hi> it muſt be by the <hi>tongue,
+perfected</hi> it muſt be by the <hi>hand:</hi> And that all
+theſe may do their parts, we will a little conſider
+them apart,</p>
+                  <p>1. And firſt,<note place="margin">1. In the heart.</note> the root of this lies in the <hi>heart,</hi>
+the <hi>fountain</hi> of every good action: <hi>Gratitude</hi> muſt
+begin there, by an inward acknowledgment and
+juſt eſteem of the benefit received; not to ac<g ref="char:EOLhyphen"/>knowledge,
+or deny it, is an impudent piece of
+<hi>Ingratitude;</hi> to forget it, baſe; and to under<g ref="char:EOLhyphen"/>value
+it, comes not far behind either. All theſe
+ſins I fear we have much to anſwer for; and ſuch
+as brought our late judgments upon us. Now a
+<pb n="30" facs="tcp:115685:17"/>
+                     <hi>juſt eſtimate</hi> of what we have received, is a reme<g ref="char:EOLhyphen"/>dy
+againſt all theſe: For if we find that great,
+eſpecially in any high meaſure, we cannot for
+ſhame, either <hi>deny, undervalue,</hi> or <hi>forget</hi> it; and
+therefore, that we may do our duty in the buſi<g ref="char:EOLhyphen"/>neſs
+we are met about, our main, firſt, and chief<g ref="char:EOLhyphen"/>eſt
+work muſt be, to fix upon our <hi>hearts</hi> a <hi>due
+eſteem,</hi> a true ſenſe of the worth and value of the
+<hi>great bleſſing</hi> we have lately <hi>received</hi> from <hi>God,</hi>
+and are here met to pay our <hi>thanks</hi> for; and the
+beſt meaſure of it, is taken from the conſidera<g ref="char:EOLhyphen"/>tion.</p>
+                  <list>
+                     <item>1. Of the Giver.</item>
+                     <item>2. The benefit it ſelf.</item>
+                     <item>3. The manner of giving.</item>
+                     <item>4. The time when.</item>
+                     <item>5. And the perſons upon whom beſtowed.</item>
+                  </list>
+                  <p>All or any of which uſe either to heighten or
+leſſen a benefit received.</p>
+                  <p>1. And firſt,<note place="margin">1. A due eſteem of the Giver.</note> the <hi>Giver</hi> commends the gift;
+the hand it comes from, adds value to it: A little
+favor from a great perſon is ever much eſteem<g ref="char:EOLhyphen"/>ed;
+a ſmall Donative from a <hi>Prince,</hi> more valued
+then greater matters from an <hi>ordinary perſon.</hi> And
+there is reaſon for it; for, beſides the <hi>honor</hi> we
+get with <hi>others</hi> to be ſo valued by thoſe of high
+eſteem, it brings <hi>ſatisfaction</hi> and <hi>comfort</hi> to <hi>our
+<pb n="31" facs="tcp:115685:17"/>
+ſelves,</hi> eſpecially in our preſent caſe between
+<hi>God</hi> and us, to have ſuch an aſſurance, ſuch an
+earneſt of his good will, who is able to do ſo
+much for us: It lets us out into new expectati<g ref="char:EOLhyphen"/>ons
+of receiving ſtill more and more, from a
+bounty ſo great, ſo laſting, ſo boundleſs, ſo end<g ref="char:EOLhyphen"/>leſs.
+Indeed, <hi>between men</hi> the difference though
+much, cannot be ſo much to heighten the bene<g ref="char:EOLhyphen"/>fit;
+not more then between one piece of earth
+and another, the <hi>Mountain</hi> and the <hi>Molchill</hi> at the
+moſt; but in the compariſon between <hi>God and
+us,</hi> we ſhall be utterly aſtoniſhed, utterly loſt;
+that <hi>he</hi> ſo great, ſo glorious, ſo infinite in all per<g ref="char:EOLhyphen"/>fections,
+beyond all we can ſay or think; ſhould
+yet vouchſafe to look down upon <hi>us,</hi> to be kind
+to <hi>us,</hi> ſo poor, ſo weak, ſo vile, ſo deſpicable
+Creatures, even nothing, and worſe then nothing
+in compariſon of him. What a condeſcention is
+this in him? What an <hi>honor</hi> and <hi>comfort</hi> to us?
+How much doth it commend any favour, even
+the leaſt, to be an earneſt of ſo infinite a bounty?
+And therefore in all ſuch caſes our <hi>Gratitude</hi>
+muſt not ariſe ſo much from the ſolace that <hi>na<g ref="char:EOLhyphen"/>ture</hi>
+finds in any <hi>bleſſing</hi> beſtowed upon us, as
+from the conſideration of the bounty and good<g ref="char:EOLhyphen"/>neſs
+of ſo infinite a <hi>Majeſty</hi> towards us.</p>
+                  <p>2. Thus you ſee the <hi>Giver</hi> is great,<note place="margin">2. Of the Gift.</note> greater
+then all givers elſe put together, great beyond
+compare. What is in the next place, the <hi>Gift</hi> it
+<pb n="32" facs="tcp:115685:18"/>
+ſelf? That's great too; and though all are ſo
+that come from him, yet ſome are greater then
+others, and this in its kind as great as any, both in
+reſpect of the miſchiefs we are delivered from, and
+the <hi>Bleſſings</hi> we receive by it. There's no deſcend<g ref="char:EOLhyphen"/>ing
+to particulars on either ſide, they are infinite,
+eaſie it is to begin to ſpeak of the one, or the other;
+the <hi>Miſeries of War,</hi> or the <hi>Bleſſings of Peace:</hi> But
+we know not where to end, ſince both are innu<g ref="char:EOLhyphen"/>merable;
+and the bare names of <hi>War</hi> and <hi>Peace,</hi>
+carry to every mans underſtanding a ſummary,
+a collection of all temporall <hi>miſchiefs</hi> and <hi>bleſſings.</hi>
+And if there be any in Heaven or Hell upon Earth,
+theſe are they, and the diſtance as great; however,
+they are excellent Hieroglyphicks of both; no two
+things in the world reſemble them better.</p>
+                  <p>So that if we conſider what we have eſcaped,
+the <hi>miſeries of War,</hi> and of a <hi>Civil War,</hi> the worſt of
+all wars; and what we have gained, the <hi>bleſſings
+of Peace,</hi> and <hi>Kingly Government</hi> the beſt preſerver
+of them; a gracious PRINCE, and together with
+him our <hi>Laws, Liberties, Properties<g ref="char:punc">▪</g>
+                     </hi> the <hi>free exer<g ref="char:EOLhyphen"/>ciſe
+of Religious Duties,</hi> indeed all that is or ought
+to be dear to a Chriſtian Common-wealth in this
+world: If we conſider I ſay what he hath removed
+from us, and what he hath given to us, the <hi>Bleſſing</hi>
+will appear in it <hi>ſelf</hi> wonderfull; and in its kind, be<g ref="char:EOLhyphen"/>yond
+compare.</p>
+                  <p>
+                     <pb n="33" facs="tcp:115685:18"/>
+3. And yet his <hi>Love</hi> and <hi>Liberality</hi> in the man<g ref="char:EOLhyphen"/>ner
+of beſtowing it,<note place="margin">3. Of the Manner of giving it.</note> is as wonderful as the <hi>Gift</hi> it
+ſelf, and more; and that in a double reſpect.
+For firſt; he did it graciouſly, freely, <hi>Nullo ante<g ref="char:EOLhyphen"/>cedente
+merito, nullo expectato commodo;</hi> he ſaw no<g ref="char:EOLhyphen"/>thing
+in us before to move him to it; he looks
+for nothing after from us for it, but onely that
+we ſhould be kinde to our ſelves in a right uſe of
+his benefits; that ſo we may be capable of more
+and greater, which we long not ſo much to re<g ref="char:EOLhyphen"/>ceive,
+as he to give. And</p>
+                  <p>Secondly, Becauſe what he gives in <hi>frowns</hi> and
+<hi>thunder</hi> to others, he hath reached out to us <hi>ſmiling,</hi>
+and in his <hi>ſtill voice,</hi> what they <hi>buy</hi> by all the miſe<g ref="char:EOLhyphen"/>ries
+of War, and think it a good purchaſe oft at
+the expence of much treaſure, and a ſea of Blood,
+is freely caſt upon us without more coſt or trouble
+then of a few <hi>Conceſsions</hi> of a <hi>gracious Prince;</hi> now
+ſo great a <hi>bleſſing</hi> at ſo eaſie a rate, ſo much for ſo
+little, muſt needs highly commend his bounty,
+and make the <hi>manner of his giving equal</hi> to the <hi>gift</hi> it
+ſelf</p>
+                  <p>4 And as the <hi>Manner moſt gracious,</hi>
+                     <note place="margin">4. Of the Time when.</note> ſo was the
+<hi>Time</hi> too. A little thing ſeaſonably done, deſerves
+much: This was great in it <hi>ſelf,</hi> gracious in the
+<hi>manner,</hi> ſeaſonable for the <hi>time;</hi> 'tis danger that
+makes <hi>deliverance</hi> ſweet. <hi>Placet cunctis ſecuritas, &amp;c.</hi>
+ſays St <hi>Bernard,</hi> Security is pleaſing to all, but to
+him moſt that feared moſt; and to be ſnatched
+<pb n="34" facs="tcp:115685:19"/>
+out of the jaws of <hi>Death,</hi> gives a double <hi>Life.</hi>
+This was our caſe; <hi>reſcued,</hi> when ready to <hi>periſh,</hi>
+when <hi>Church</hi> and <hi>State, Religion, Learning, Laws,</hi>
+were not only in danger, but already devoured,
+in the hope and expectation of our enemies; when
+<hi>Atheiſm, Ignorance</hi> and <hi>Barbariſm,</hi> were in a full
+and fierce torrent, breaking in upon us, and we
+at the very brink of a remedileſs confuſion, ready
+to be made the pity and ſcorn of the whole world,
+as they ſtood affected to us; <hi>Then,</hi> even <hi>then,</hi> in
+this preſſing neceſſity, at this moſt acceptable
+<hi>Time,</hi> did the day begin to break, and his mercy
+to ſhine upon us; then we firſt diſcerned our <hi>de<g ref="char:EOLhyphen"/>liverance</hi>
+dawning, which, by ſeveral gracious
+ſteps and degrees, he hath ſince worderfully per<g ref="char:EOLhyphen"/>fected.</p>
+                  <p>5. And as at a <hi>Time</hi> moſt ſeaſonable for our
+neceſſities,<note place="margin">5. Of the Perſons to whom.</note> ſo, to make the mercy on all hands
+compleat, at a <hi>Time</hi> too, when we ſeemed <hi>moſt
+uncapable of it,</hi> moſt <hi>unworthy of it:</hi> For who,
+or what were we, that ſuch a bleſſing ſhould be
+caſt upon us? not only <hi>undeſerving,</hi> but <hi>ill de<g ref="char:EOLhyphen"/>ſerving,</hi>
+and that in a high meaſure; moſt worthy
+to be utterly <hi>conſumed,</hi> moſt unworthy to be <hi>pre<g ref="char:EOLhyphen"/>ſerved:</hi>
+And you know the leſs worth in the
+<hi>Receiver,</hi> ever the more favour in the <hi>Giver.</hi> But
+to take a right eſteem of our ſelves, we may do wel
+to conſider,</p>
+                  <pb n="35" facs="tcp:115685:19"/>
+                  <list>
+                     <item>1. What our condition was before theſe Judgments fell
+upon us.</item>
+                     <item>2. What under them.</item>
+                     <item>3. What at the time of our deliverance from them.</item>
+                  </list>
+                  <p>1. At firſt,<note place="margin">1. What our condition was before our trou<g ref="char:EOLhyphen"/>bles.</note> 
+                     <hi>Bleſſings</hi> we had ſo <hi>many,</hi> ſo <hi>great,</hi> as
+no Nation under Heaven enjoyed <hi>more</hi> or <hi>greater:</hi>
+But did we grow the better by them? were we
+thankful for them? Far from it; God knows
+we forgot many, undervalued more, abuſed all.
+In ſtead of the fruits of ſo great a bounty, nothing
+to be ſeen among us but horrid impudent ſins;
+<hi>Non furtiva ſcelera ſed in publicum miſſa</hi> (as the <hi>Stoick</hi>
+of his time;) not ſneaking, private, concealed
+ſins, as fearing the <hi>Laws</hi> or <hi>ſhame</hi> of the World;
+but <hi>open, publick,</hi> and <hi>National ſins;</hi> Drunkenneſs,
+Reeling in the ſtreets, Blaſphemy ſounding in the
+Market-place, Perjury in Courts of Juſtice,
+Churches themſelves not free, Pride and Oppreſſi<g ref="char:EOLhyphen"/>on,
+Luxury and Prophaneneſs, Luſt and Unclean<g ref="char:EOLhyphen"/>neſs,
+and what not? But above all, our baſe <hi>In<g ref="char:EOLhyphen"/>gratitude</hi>
+amidſt the greateſt Bleſſings, ever reſtleſs
+and impatient, complaining of the Times, and
+murmuring at thoſe under whoſe bleſſed Govern<g ref="char:EOLhyphen"/>ment
+we enjoyed them with ſo great ſecurity.
+Our own hearts muſt needs witneſs againſt us,
+That the accuſation is moſt juſt; and 'tis not a
+time to trifle with our ſelves, to palliate and exte<g ref="char:EOLhyphen"/>nuate
+our <hi>ſins,</hi> but freely and fully to confeſs them,
+if we mean not to make void his preſent <hi>Mercies,</hi>
+                     <pb n="36" facs="tcp:115685:20"/>
+and pull yet greater <hi>Judgments</hi> upon us. This ſin
+made us think our <hi>Peace</hi> a <hi>burden,</hi> and gave us no
+quiet till we had thrown away thoſe ineſtimable
+bleſſings; and for want of other Enemies, with
+our own hands pull miſchief upon our ſelves, mu<g ref="char:EOLhyphen"/>tually
+ſcourging and afflicting one another by all
+the miſeries of a bloudy, civil and unnatural War:
+And thus came his <hi>Judgements</hi> upon us.</p>
+               </div>
+               <div type="part">
+                  <head>And now to proceed.</head>
+                  <p>2. When <hi>Gideon</hi> returned from the purſuit of
+the two Kings of <hi>Midian,</hi>
+                     <note place="margin">2. What un<g ref="char:EOLhyphen"/>der them.</note> and had <hi>torn the men of
+Succoth and Penuel with the thorns and bryars of the Wil<g ref="char:EOLhyphen"/>derneſſe,</hi>
+'tis ſaid, that with them he <hi>taught the men
+of Succoth,</hi> Judg. 8. 16. becauſe afflictions and pu<g ref="char:EOLhyphen"/>niſhments
+uſe to do it, uſe to <hi>teach</hi> men <hi>Wit</hi> and
+<hi>Vertue,</hi> uſe to reſtrain them from their wicked
+courſes. Did our mutual <hi>tearing</hi> of one anothers
+fleſh <hi>teach us?</hi> Had it ſo good an effect upon us?
+Alas no: we grew not better, but worſe by it;
+our <hi>ſins</hi> multiplied with, and much beyond our
+<hi>ſufferings,</hi> eſpecially <hi>Atheiſm, Profaneneſſe, Sacriledge,
+Perjury, Oppreſſion, innocent Blood</hi> of all Degrees,
+<hi>Vulgar, Noble, Sacred</hi> and <hi>Royal;</hi> not to be men<g ref="char:EOLhyphen"/>tioned
+without tears of blood to bewail it.</p>
+                  <p>So that when we were come to this height of
+wickedneſs, and made our ſelves the reproach of
+the whole world, what could we in reaſon expect,
+but that the full Vials, and the very dregs of his
+wrath ſhould be poured down upon us, and we
+<pb n="37" facs="tcp:115685:20"/>
+utterly deſtroyed from the face of the earth?</p>
+                  <p>3. Yet ſo wonderful was his mercy,<note place="margin">3. What at the time of our Delive<g ref="char:EOLhyphen"/>rance.</note> even in
+in this ſtate and condition, when our provocati<g ref="char:EOLhyphen"/>ons
+reached up to Heaven, ſeemed to contend and
+prevail too, both againſt his Love and Anger, a<g ref="char:EOLhyphen"/>buſing
+the one, contemning the other, and pro<g ref="char:EOLhyphen"/>fiting
+by neither; when thus full ripe for deſtru<g ref="char:EOLhyphen"/>ction,
+yet, as if he were reſolved not to be over<g ref="char:EOLhyphen"/>come
+by our ingratitude, nor ſuffer any thing to
+hinder his gracious purpoſes towards us, he hath,
+by a <hi>Miracle of Mercy,</hi> removed his Judgments
+from us, and becalmed that tempeſt that lay ſo
+heavy upon us, what can we do leſs then cry out
+with our Prophet, <hi>O that men would therefore praiſe
+the Lord for his goodneſſe, and declare the wonders that
+he doth for the children of men.</hi> Pſa. 107.</p>
+                  <p>And now if we be not wholly drowned in ſen<g ref="char:EOLhyphen"/>ſuality,
+if we be not guilty of a ſtupidity beyond
+what humane nature ſeems capable of, we muſt
+needs be highly and paſſionately ſenſible of ſo
+melting, ſo ſurprizing, ſo amazing a Mercy; ſo
+<hi>exceeding great</hi> in all conſiderations: So great the
+<hi>Giver,</hi> ſo vile the <hi>Receivers;</hi> the <hi>Gift</hi> ſo great, the
+<hi>Manner</hi> ſo kind, the <hi>Time</hi> ſo ſeaſonable, and <hi>We</hi> ſo
+<hi>unworthy</hi> of it: what can be more to commend it
+to us? And therefore, if we have but near that
+reliſh of it in the <hi>heart</hi> as we ought, and as it de<g ref="char:EOLhyphen"/>ſerves,
+it will break out at the <hi>mouth,</hi> and break
+out it muſt into <hi>Praiſe</hi> and <hi>Thanksgiving:</hi> For that
+<pb n="38" facs="tcp:115685:21"/>
+was the next part of <hi>Davids Gratitude,</hi> and muſt be
+ſo of ours.</p>
+                  <q>I will give thanks unto thee, O Lord, and ſing
+praiſes to thy Name, among the Heathen.</q>
+                  <p>2. If <hi>Gratitude</hi> be in the heart,<note place="margin">2. Grati<g ref="char:EOLhyphen"/>tude in the tongue.</note> if all be right
+within, ſomething will appear without: If there
+be that apprehenſion, that eſtimation of the <hi>bleſ<g ref="char:EOLhyphen"/>ſing</hi>
+as it deſerves, it cannot be kept there no more
+then fire in the boſome, it will break out in <hi>thanks</hi>
+and <hi>praiſe;</hi> the full <hi>heart</hi> will run over at the <hi>mouth,</hi>
+it muſt have a vent by the <hi>tongue:</hi> And ſo indeed
+it ſhould, both for our own good, and for others
+too. The <hi>tongue</hi> was principally given (you
+know) to ſet forth his <hi>praiſe</hi> and <hi>glory,</hi> and it
+concerns us to uſe it accordingly. We offend with
+it as much as with any member, and therefore
+ſhould by it endeavour to make ſome compenſati<g ref="char:EOLhyphen"/>on,
+and take care it be as ſerviceable as before ſin<g ref="char:EOLhyphen"/>ful.
+We pull down <hi>Judgments</hi> by it, and 'tis but
+meet we give <hi>thanks</hi> with it for our <hi>Deliverance;</hi>
+elſe we ſhall be found guilty of <hi>cold affections, dull
+reſentments</hi> of his favours: We rob God of his <hi>Glo<g ref="char:EOLhyphen"/>ry,</hi>
+and others of the benefit of his <hi>Mercies</hi> to us,
+for whoſe ſakes we receive them as well as for our
+own; that <hi>they,</hi> as well as <hi>we,</hi> may have comfort<g ref="char:EOLhyphen"/>able
+hopes of <hi>Deliverance,</hi> when in <hi>diſtreſſe;</hi> and
+learn by our example to give <hi>Praiſe</hi> and <hi>Glory</hi> to his
+Name.</p>
+                  <p>
+                     <pb n="39" facs="tcp:115685:21"/>
+Neceſſary then it is,<note place="margin">1. Publick<g ref="char:EOLhyphen"/>ly.</note> that the <hi>Tongue</hi> have its
+part in the diſcharge of this duty; our <hi>thanks</hi> muſt
+be <hi>vocal,</hi> and more then that, they muſt be <hi>pub<g ref="char:EOLhyphen"/>lick</hi>
+too and <hi>diffuſive. David</hi> would not pay them
+privately, and to a few, but <hi>publickly,</hi> even among
+the <hi>Gentiles</hi> in the <hi>Church</hi> and without, even to all
+mankinde. He was a <hi>Prophet,</hi> and foreſaw the
+converſion of the <hi>Gentiles,</hi> and that the <hi>Pſalm</hi> he
+compoſed ſhould be ſung to the <hi>praiſe</hi> and <hi>glory</hi> of
+<hi>God</hi> among them, that his example ſhould mini<g ref="char:EOLhyphen"/>ſter
+matter of <hi>thanks</hi> to all ſucceeding ages. But I
+promiſed not to meddle with the <hi>Prophetical ſenſe</hi>
+at all; the <hi>Literal</hi> reacheth far enough to our in<g ref="char:EOLhyphen"/>ſtruction,
+and may ſuffice to teach us to imitate
+him in publiſhing our thanks as he did, who
+(that none might be ignorant of his <hi>Gratitude,</hi> who
+had heard of his <hi>Deliverance)</hi> would do it in <hi>the great
+Congregation,</hi> and among much people, <hi>Pſal</hi> 35. 18.
+He calls to others to aſſiſt him, and joyn with
+him; to do it themſelves, <hi>Tell the people what things
+he hath done.</hi> Pſal. 105. 1. <hi>O come hither and hearken,
+and I will tell you what he hath done for my Soul.</hi> Pſal.
+66. 16. And, <hi>O praiſe the Lord with me, and let us
+magnifie his name together.</hi> Pſal. 34 3. <hi>O be joyful all
+the Lands;</hi> and many ſuch like. He will do it to
+every body, that all may praiſe God as well as he;
+he will not be aſhamed, nor ſhould we, to own
+and confeſſe, and acknowledge, and publiſh his
+bounty in all places, and before all perſons, as
+<pb n="40" facs="tcp:115685:22"/>
+occaſion and opportunity is offered. A heart truly
+affected with a ſenſe, and due eſteem of his mercy,
+will do it, cannot forbear to do it, is reſtleſs till
+it have done it. Both <hi>publickly</hi> and <hi>chearfully</hi> too,
+another circumſtance in the manner of giving our
+<hi>thanks;</hi> of which likewiſe,</p>
+                  <p>The <hi>Prophet</hi> gives here an example,<note place="margin">2. chear<g ref="char:EOLhyphen"/>fully.</note> for he will
+not onely ſay, but <hi>Sing praiſes unto his Name;</hi> de<g ref="char:EOLhyphen"/>clare
+a <hi>joyfulneſs</hi> as well as <hi>thankfulneſs.</hi> And ſo it
+ſhould be, and ſo it muſt be. For as to <hi>Feaſt</hi> when
+God calls to <hi>Faſt;</hi> to <hi>ſing,</hi> when he calls to <hi>ſigh,</hi>
+is in the Prophet, <hi>an iniquity not eaſily purged, Iſai.</hi>
+22. 12, 13, 14. (To frolick it under his <hi>judgments,</hi>
+and to deſpiſe them ſo much, as not to ſeem ſenſi<g ref="char:EOLhyphen"/>ble
+of them, is a great <hi>ſin,</hi> and I fear no ſmall part
+of our former guilt.) So, on the contrary, to carry
+<hi>ſour countenances</hi> vvhen his <hi>ſhines</hi> upon us, to enter<g ref="char:EOLhyphen"/>tain
+his mercies vvith a ſullen and ſad heart, an
+unfeeling diſpoſition, or but vvith an indifferency;
+not to be at all tranſported, at all moved vvith
+them, is a <hi>ſin</hi> that deſerves a deſertion, a recalling
+of his <hi>favors,</hi> a doubling his <hi>judgments</hi> upon us.
+A ſad example vve have in the people of God.
+<hi>Deut. 28. 47, 48. Becauſe thou didſt not ſerve the Lord
+thy God with joyfulneſs, and with gladneſs of heart, for
+the abundance of all things: Therefore thou ſhalt ſerve
+thine enemies in hunger, thirſt, and nakedneſs, and in the
+want of all things.</hi> An heavy doom, and the reaſon of
+it is; vvhere there is no <hi>joy without,</hi> there can be no
+<pb n="41" facs="tcp:115685:22"/>
+                     <hi>hearty thanks within.</hi> For how can we eſteem any
+thing <hi>a bleſſing</hi> that <hi>delights</hi> us not? And how are
+we delighted if we ſhew no ſigns of <hi>joy</hi> for it?
+And how does he value a Deliverance, that ex<g ref="char:EOLhyphen"/>preſſes
+no comfort he takes in it? This is certainly
+a great ſin, an high provocation of God. What
+ſhall we ſay then to thoſe ſowre and over-leaven<g ref="char:EOLhyphen"/>ed
+natures, that with the ſame countenance keep a
+<hi>Faſt</hi> and a <hi>Feſtival,</hi> a day of <hi>Humiliation</hi> and <hi>Thankſ<g ref="char:EOLhyphen"/>giving,</hi>
+both alike, with ſighs, and groans, and
+caſt down looks; as if <hi>griefs</hi> and <hi>groans</hi> were a cer<g ref="char:EOLhyphen"/>tain
+ſign of <hi>Grace</hi> and <hi>Godlineſſe,</hi> when the <hi>Devils</hi>
+howl and are tormented.</p>
+                  <p>But I would not be mi<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aken; 'tis not a <hi>profane
+rejoycing,</hi> a ſinful mirth we plead for; far be it
+from us: How much thoſe uſual expreſſions of
+jollity, <hi>ſinging, feaſting,</hi> and the like, are abuſed
+to Luxury and Riot, Exceſs and Wantonneſs,
+<hi>Novimus &amp; Dolemus,</hi> (as the Father) we know
+it, we grieve for it, we deteſt it as much as any.
+An horrid ſin it is, in ſtead of <hi>thanking God,</hi> to ſa<g ref="char:EOLhyphen"/>crifice
+to <hi>Bacchus;</hi> to expreſs <hi>Publicum gaudium per
+Publicum dedecus,</hi> as <hi>Tertullian</hi> of the Heathen:
+That's to pay <hi>thanks</hi> with <hi>unthankfulneſſe,</hi> to make
+<hi>Mercy</hi> the Mother of <hi>Sin,</hi> to return evil for good,
+the worſt, the higheſt, the baſeſt <hi>Ingratitude.</hi>
+                  </p>
+                  <p>The <hi>corruption</hi> of the <hi>beſt</hi> things is ever the <hi>worſt,</hi>
+and what's moſt <hi>neceſſary</hi> in the <hi>uſe,</hi> is ever moſt
+<hi>dangerous</hi> in the <hi>abuſe:</hi> And ſo 'tis here; abuſe
+<pb n="42" facs="tcp:115685:23"/>
+                     <hi>Mirth</hi> and nothing worſe, uſe it right and nothing
+better; keep it within its bounds, ſuffer it not to
+tranſport us beyond our duty into ſin, and 'tis the
+<hi>Balm of this Life,</hi> the <hi>Earneſt of a better,</hi> the Condi<g ref="char:EOLhyphen"/>ment
+and ſeaſoning, that which makes pleaſant
+all actions Moral and Religious.</p>
+                  <p>'Tis an excellent Rule of Life St. <hi>Bernard</hi> gives,
+<hi>Do well, and be merry;</hi> as merry as you will, the
+more the better; keep to the firſt, you cannot
+offend in the ſecond. And let me tell you, that
+<hi>Vertue</hi> and <hi>Religion</hi> are the moſt <hi>chearfull</hi> things in
+the World, however ſome make them ſowr and
+ſevere; they are, like God himſelf, all light and
+ſerenity, joy and comf<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt, eſpecially in his ſer<g ref="char:EOLhyphen"/>vice.</p>
+                  <p>God loves the chearful Servant, and who does
+not? We may judge it by our ſelves. Who cares
+for him that goes to his <hi>work</hi> as if he went to the
+<hi>Stocks</hi> or a <hi>Priſon?</hi> All parts of Gods ſervice, even
+the ſowreſt and ſevereſt (had we time to ſhew it)
+are mixed with comforts, and ſhould be perform<g ref="char:EOLhyphen"/>ed
+joyfully; this of <hi>Thankſgiving</hi> above and be<g ref="char:EOLhyphen"/>yond,
+and more then any: For here we ſwim
+with the ſtream. We are naturally chearful after
+a miſchief avoided, a danger eſcaped; and being
+ſo well prepared for it, ſhould with all alacrity
+<hi>ſing</hi> out our <hi>thanks</hi> and his <hi>praiſe,</hi> declare an exulta<g ref="char:EOLhyphen"/>tion
+of mind in all innocent and decent expreſſi<g ref="char:EOLhyphen"/>ons
+of joy and gladneſs.</p>
+                  <p>
+                     <pb n="43" facs="tcp:115685:23"/>
+'Twas ever the cuſtome of all mankind to do
+it, in all Ages and places: Inſtances are infinite
+both within the Church and without. But in
+this haſt we need go no further then the Prophet
+<hi>David,</hi> who in the Book of <hi>Pſalms,</hi> for his ſeve<g ref="char:EOLhyphen"/>ral
+deliverances, is ever at <hi>[I will ſing,]</hi> or <hi>[O ſing
+unto the Lord:]</hi> either doing it himſelf, or calling
+others to do it, not coldly or faintly, but zealouſ<g ref="char:EOLhyphen"/>ly
+and heartily; <hi>Sing aloud, make a chearfull noiſe;
+Sing luſtily unto him with a good courage.</hi> But this
+will not ſerve the turn neither, unleſs he call for
+Inſtruments, as well as men to aſſiſt; <hi>Bring hither
+the Tabret, the merry Harp, and the Lute, blow the
+Trumpet too,</hi> all to incite quicken and enflame his
+heart and affections, even to a tranſporting exta<g ref="char:EOLhyphen"/>tick
+joy of gratitude.</p>
+                  <p>We ſhould indeed labour to foment it in us as
+much as may be, for the greater <hi>joy without,</hi> the
+greater <hi>ſenſe</hi> and eſteem of his <hi>bounty within;</hi> and
+the greater that is, ever the more, and the more
+ſincere <hi>Gratitude;</hi> which if it be not <hi>heard</hi> in our
+<hi>Tongues,</hi> is certainly not <hi>felt</hi> in our <hi>Hearts,</hi> and
+therefore there it muſt be alſo.</p>
+                  <p>And when this is done, the ſecond part of Gra<g ref="char:EOLhyphen"/>titude
+is performed; the <hi>Tongue</hi> hath done her
+part, but all is not yet done; this is but <hi>Gratiarum
+dictio,</hi> it reacheth no further then <hi>words,</hi> and ſome<g ref="char:EOLhyphen"/>thing
+muſt be <hi>done</hi> as well as <hi>ſaid.</hi>
+                  </p>
+                  <p>
+                     <pb n="44" facs="tcp:115685:24"/>
+The <hi>thanks</hi> of ſome are vocal enough,<note place="margin">3. Grati<g ref="char:EOLhyphen"/>tude in the hand.</note> too
+much, becauſe nothing elſe, nothing but ſound
+and noiſe; and better a dumb heart then not ſin<g ref="char:EOLhyphen"/>cere.
+Words are a cheap way of payment, and
+the world delights much in it; Gods benefits are
+not <hi>words,</hi> but <hi>deeds,</hi> and our Gratitude will be
+found ſhort if it reach not beyond words to <hi>deeds.</hi>
+Nay, Honeſty and Reaſon require, that the com<g ref="char:EOLhyphen"/>penſation
+exceed the benefit received, that the re<g ref="char:EOLhyphen"/>turn
+be made both in greater <hi>meaſure,</hi> and with
+greater alacrity (if it may be;) Becauſe he that
+gave was, <hi>not obliged,</hi> he that returns, is; the one
+comes from a free and liberal <hi>mind,</hi> the other is a
+piece of <hi>Juſtice,</hi> and a Debt: And though we
+have paid what's due to <hi>Juſtice,</hi> in returning as
+much as we received; yet we are not upon even
+terms, unleſs we ſuffer one <hi>kindneſſe</hi> to beget an<g ref="char:EOLhyphen"/>other,
+and return ſomething over and above, and
+more then we received. A good man will do it
+when he can, and have a good mind, an earneſt
+<hi>deſire</hi> to do it when he cannot. And ſo ſhould
+we to God, ſince 'tis impoſſible to make him an<g ref="char:EOLhyphen"/>ſwerable
+returns in <hi>fact,</hi> we muſt do it <hi>in voto,</hi> in
+deſire. And though neither our <hi>deeds</hi> nor <hi>deſires</hi>
+can in any degree equal his Bounty, but we muſt
+needs fall infinitely ſhort in both; yet if we do
+what we can, and heartily wiſh we could do
+more, 'tis accepted with him.</p>
+                  <p>
+                     <pb n="45" facs="tcp:115685:24"/>
+And <hi>ſomething</hi> (ſure) we can do, and that <hi>ſomething</hi>
+we muſt do<g ref="char:punc">▪</g> Now to learn what it is, we muſt
+conſider; why we were <hi>afflicted,</hi> and why <hi>deliver<g ref="char:EOLhyphen"/>ed?</hi>
+afflicted we were for our <hi>ſins,</hi> delivered that
+we might <hi>ſin no more.</hi> What thoſe <hi>ſins</hi> were that
+pulled down his <hi>judgments</hi> upon us, you heard
+before; how many, how great, how publick,
+how bold and daring; how our <hi>provocations</hi> mul<g ref="char:EOLhyphen"/>tiplyed
+with and beyond his <hi>judgments.</hi> And
+now being delivered, we muſt remember, that
+<hi>mercy</hi> is ever ſhewed <hi>propter ſpem,</hi> in hope of a<g ref="char:EOLhyphen"/>mendment;
+and therefore take care to avoid thoſe
+ſins hereafter; at leaſt to be ſure to prevent their
+being publick and national any more. For if
+inſtead of improving this bleſſing of <hi>Peace</hi> to
+his glory, the good of others, and of our ſelves,
+we abuſe it to pride and vanities, pleaſure and ſen<g ref="char:EOLhyphen"/>ſuality,
+exceſs and riot, we may be aſſured it will
+prove no bleſſing at all, but an <hi>aggravation,</hi> both of
+our <hi>guilt</hi> and <hi>miſery,</hi> in bringing a worſe War,
+and heavier judgments upon us, then we have
+yet felt.</p>
+                  <p>But this is not all,<note place="margin">2. In doing good.</note> we have more to do, to be
+thankful as we ſhould, then this; then barely to
+<hi>avoid ſin;</hi> we muſt <hi>do good</hi> too. For the general
+end of all his bleſſings upon us, his mercies to us,
+and <hi>deliverance</hi> of us, of what kinde ſoever, is to
+lead us to a <hi>holy, vertuous,</hi> and <hi>religious life,</hi> St. <hi>Luk.</hi>
+1. 74, 75. We are brought into danger and diſtreſs,
+<pb n="46" facs="tcp:115685:25"/>
+becauſe <hi>bad,</hi> delivered that we may be <hi>better.</hi> And
+this is the right <hi>giving of thanks,</hi> the beſt return we
+can make him, and the beſt eſteemed by him:
+And ſo (you ſee) there is much more required to
+make up this duty, then <hi>words;</hi> much before, and
+much after, the <hi>heart</hi> before, and after the <hi>hands.</hi>
+If the firſt (the <hi>heart)</hi> be wanting, <hi>words</hi> are but
+<hi>wind,</hi> not better, nor ſo innocent as the pratling
+of a Parrat. <hi>Gratitude</hi> is <hi>heartleſs</hi> without the one,
+and <hi>lame</hi> without the other. When either is want<g ref="char:EOLhyphen"/>ing
+(the <hi>heart</hi> or <hi>hands)</hi> the <hi>Tongue</hi> is an <hi>Hypocrite,</hi>
+and gives <hi>lies</hi> inſtead of <hi>thanks;</hi> real thanks are
+good deeds, and they praiſe him beſt, that obey
+him beſt.</p>
+                  <p>But now among thoſe many duties a good life
+comprehends,<note place="margin">1. By gi<g ref="char:EOLhyphen"/>ving.</note> and we in <hi>gratitude</hi> are obliged
+unto; ſome are more ſeaſonable, more proper for
+this time and occaſion. And to make the choice,
+we ſhall eſpecially conſider, that as <hi>God hath done
+great things for us,</hi> ſo it is neceſſary we <hi>do ſomething</hi>
+again for him: As he hath <hi>given</hi> to us, ſo we <hi>to
+give</hi> to him. Alas, how can that be! ſince our
+goods reach not to him, <hi>he</hi> needs them not. True
+indeed, but <hi>His</hi> do; the <hi>poor</hi> need, and by them
+our goods reach even to <hi>Him</hi> too. We relieve him
+in the <hi>poor,</hi> viſit him in the <hi>ſick,</hi> cloath him in the
+<hi>naked,</hi> redeem him in the <hi>priſoner: For in that we do
+it to theſe, we do it to him, Matth.</hi> 25. 45. And no time
+more ſeaſonable to do it in, none fitter then this:
+<pb n="47" facs="tcp:115685:25"/>
+That at a <hi>publick rejoycing</hi> none may be <hi>ſad,</hi> nor <hi>faſt</hi>
+when others <hi>feaſt:</hi> And therefore, being cheered,
+refreſhed, and comforted our ſelves, let us cheer,
+refreſh, and comfort others; and being delivered
+our ſelves, let's deliver others from diſtreſs and
+want; thoſe eſpecially that have ſuffered in the
+late diſturbances, the <hi>ſick,</hi> the <hi>maimed,</hi> the <hi>lame,</hi> the
+<hi>deſolate Widows</hi> and <hi>Children</hi> of ſuch as fell in the Ser<g ref="char:EOLhyphen"/>vice.
+Let's be ſure to make them (as well as our
+ſelves) ſenſible of <hi>Gods favors</hi> to us: Let the <hi>bleſs<g ref="char:EOLhyphen"/>ings</hi>
+of <hi>peace</hi> diſtil from the <hi>head</hi> to the <hi>skirts,</hi> to the
+very meaneſt among us: <hi>Works of Charity</hi> are a
+proper <hi>ſacrifice</hi> of <hi>thankſgiving</hi> at ſuch a time as
+this.</p>
+                  <p>But beſides <hi>giving,</hi>
+                     <note place="margin">2. For<g ref="char:EOLhyphen"/>giving.</note> there muſt be <hi>forgiving</hi> too,
+a duty at this time as ſeaſonable as the other, if
+not more; for it is the beſt part of our <hi>Gratitude</hi>
+to <hi>God,</hi> and the moſt acceptable to him, and we
+ſhall be without excuſe, if we do it not. For
+ſhall God forgive us <hi>Thouſands of Talents<g ref="char:punc">▪</g>
+                     </hi> ſins many
+in number, great in weight? And ſhall we ſtick
+at a <hi>few pence,</hi> a few petty injuries of our Brethren,
+neither great, nor many; but ſuch as for <hi>number</hi>
+or <hi>weight</hi> can ſtand in no compariſon with ours
+againſt him? Shall <hi>God,</hi> ſo great, ſo glorious, after
+ſo high and many provocations, condeſcend to
+be at peace with us, and give us an aſſurance of
+it, by removing his <hi>judgments,</hi> and <hi>crowning</hi> us
+with many <hi>bleſſings?</hi> And ſhall <hi>we</hi> (poor worms)
+<pb n="48" facs="tcp:115685:26"/>
+be at enmity among our ſelves for trifles, and that
+to the hazard of all the <hi>comforts</hi> of this life, and
+hopes of a better? Shall <hi>we</hi> retain the memory of
+former unkindneſſes, and make a <hi>Publick Act of
+Oblivion,</hi> which we expect a <hi>publick lye;</hi> without
+either fear of <hi>God,</hi> or ſhame of the <hi>World?</hi> This is
+not to <hi>have peace,</hi> or enjoy it; but with great in<g ref="char:EOLhyphen"/>gratitude
+to <hi>throw</hi> it at him again; it is but to
+change one war into another, the open into ſecret,
+hoſtility into treachery; and, by pretending <hi>peace</hi>
+and <hi>kindneſs,</hi> to ſmooth the way to <hi>ſupplantation</hi> and
+<hi>injury,</hi> the moſt <hi>baſe, ſerpentine, unmanly thing</hi> in the
+World.</p>
+                  <p>And therefore I beſeech you, take care that we<g ref="char:punc">▪</g>
+ſtrip our ſelves of all <hi>unruly paſſions,</hi> that we may
+have <hi>peace within,</hi> peace from turbulent, revenge<g ref="char:EOLhyphen"/>ful
+affections: For unleſs we have this, what's
+<hi>outward peace</hi> worth? Certainly no more to thee
+then health in the <hi>City,</hi> when the <hi>Plague</hi> is in thy
+<hi>boſome.</hi> Let's all ſeriouſly and ſadly look back,
+conſider, and bemoan one another: For what we
+have mutually done and ſuffered from each other;
+let's all be <hi>ſorry</hi> for it, and all <hi>mend,</hi> perfectly <hi>for<g ref="char:EOLhyphen"/>giving</hi>
+what's paſt, and returning to as great a kind<g ref="char:EOLhyphen"/>neſs
+as ever, and a greater then ever; that ſo, by all
+<hi>mutual good Offices</hi> we may make amends for our
+former <hi>Animoſities.</hi>
+                  </p>
+                  <p>It hath been our cuſtom indeed (and more
+ſhame for us) to <hi>forget benefits,</hi> to write them in
+<pb n="49" facs="tcp:115685:26"/>
+                     <hi>ſand,</hi> but injuries in <hi>marble;</hi> we muſt now invert
+the order, write <hi>Gods benefits</hi> in marble, others in<g ref="char:EOLhyphen"/>juries
+in ſand, if we write them at all; never <hi>for<g ref="char:EOLhyphen"/>get</hi>
+the one, never <hi>remember</hi> the other; that's the
+beſt, the moſt <hi>Chriſtian memory,</hi> which (as <hi>Caeſars)
+forgets</hi> nothing but <hi>injuries:</hi> We ſhould all do it,
+and <hi>Princes</hi> above all; for it becomes a <hi>Publick Fa<g ref="char:EOLhyphen"/>ther,</hi>
+to look upon all as <hi>ſons,</hi> upon the <hi>Prodigals,</hi>
+with more kindneſs and tenderneſs, when they
+once come to themſelves, acknowledge their er<g ref="char:EOLhyphen"/>rors,
+when he ſees them <hi>returning,</hi> though <hi>afar off,</hi>
+to <hi>run,</hi> and <hi>meet,</hi> and <hi>careſs</hi> them; to call for the
+<hi>Ring</hi> and the <hi>Robe;</hi> to ſet ſome marks of favour up<g ref="char:EOLhyphen"/>on
+them more then ordinary, that may give aſſu<g ref="char:EOLhyphen"/>rance
+to the World and them, that the promiſes
+made them, were not the <hi>effects of neceſsity,</hi> but the
+<hi>fruits</hi> of a <hi>gracious Princely minde,</hi> inviolably reſolved
+to outdo all his <hi>Promiſes</hi> and <hi>Engagements.</hi>
+                  </p>
+                  <p>Laſtly,<note place="margin">3. By per<g ref="char:EOLhyphen"/>ſevering in both.</note> and to conclude, Let every one of us
+(I beſeech you) think upon theſe and the like du<g ref="char:EOLhyphen"/>ties,
+which this time and occaſion call for, and
+continue them at all times. <hi>Gratitude</hi> is not the
+buſineſs of a day or year, but of our <hi>whole life.
+Benefits</hi> new and freſh, are uſually entertained by
+us with <hi>warm affections,</hi> but (more ſhame for us)
+a little time cools them, deads them: And <hi>dangers</hi>
+are too oft at once paſt and forgotten; or if we
+ſet apart a time, a <hi>Day of Thankſgiving</hi> (as now we
+do) when that is paſt, commonly our thanks paſs
+<pb n="50" facs="tcp:115685:27"/>
+with it, and we return to our old vanities again.
+<hi>David</hi> does not ſo, he gives a better example; he
+ſays, <hi>I will give thanks,</hi> I will <hi>begin,</hi> (and indeed he
+had begun before he ſaid it) but he ſays not
+when he will <hi>end,</hi> he ſets no time for that; nor
+could he, becauſe it ſhould have none, it ſhould
+be without end: And therefore elſewhere
+he is at it; <hi>Every day will I give thanks un<g ref="char:EOLhyphen"/>to
+thee, and praiſe thy Name for ever and e<g ref="char:EOLhyphen"/>ver,</hi>
+Pſal. 145. 2. 'Tis <hi>undecent,</hi> and in<g ref="char:EOLhyphen"/>deed
+<hi>unjuſt,</hi> our <hi>Thanks</hi> ſhould be <hi>tranſitory,</hi> when
+the <hi>Benefit</hi> is <hi>laſting.</hi> Now that, (if we for<g ref="char:EOLhyphen"/>feit
+it not by unthankfulneſs) laſts as long as wee;
+we are, and ever ſhall be, the better for it; For had
+we periſhed in the danger, we had utterly loſt the
+benefit of this and all ſucceeding Mercies. Our
+<hi>Thanks</hi> then ſhould laſt as long as it laſts, and that's
+as long as we laſt, and muſt not end before us.
+and therefore let every one of us, as we are obli<g ref="char:EOLhyphen"/>ged,
+take up <hi>Davids</hi> reſolution and practiſe, and
+ſay with him, <hi>Praiſe the Lord, O my ſoul; while I
+live will I praiſe the Lord, as long as I have any being will
+I ſing praiſe unto my God.</hi> Pſal. 146. 1. And thus <hi>ſay<g ref="char:EOLhyphen"/>ing,</hi>
+and thus <hi>doing,</hi> we ſhall continue thoſe Bleſ<g ref="char:EOLhyphen"/>ſings
+upon us, which may make this and ſucceed<g ref="char:EOLhyphen"/>ing
+Generations happy. Which God, <hi>&amp;c.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
